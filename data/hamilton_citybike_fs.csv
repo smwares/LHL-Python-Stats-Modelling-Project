@@ -1,0 +1,1436 @@
+,citybike_station,name,address,latitude,longitude,distance,category
+0,Hess at king,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,19.0,Fried Chicken Joint
+1,Hess at king,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,22.0,Fried Chicken Joint
+2,Hess at king,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,81.0,Coffee Shop
+3,Hess at king,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,111.0,Lebanese Restaurant
+4,Hess at king,Hess Village,Hamilton ON,43.258433,-79.87756,77.0,Neighborhood
+5,Hess at king,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,90.0,Bar
+6,Hess at king,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,176.0,Arts and Entertainment
+7,Hess at king,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,301.0,Restaurant
+8,Hess at king,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,410.0,Deli
+9,Hess at king,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,594.0,Farmers Market
+10,Bayfront Park,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,102.0,Park
+11,Bayfront Park,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,320.0,Fish and Chips Shop
+12,Bayfront Park,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,551.0,Sports and Recreation
+13,Bayfront Park,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,637.0,Diner
+14,Bayfront Park,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,661.0,Arts and Entertainment
+15,Bayfront Park,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,700.0,Coffee Shop
+16,Bayfront Park,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,766.0,Restaurant
+17,Bayfront Park,Saltlick Smokehouse,"282 James St N (Barton Street), Hamilton ON L8R 2L3",43.263456,-79.865886,765.0,BBQ Joint
+18,Bayfront Park,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,824.0,BBQ Joint
+19,Bayfront Park,The Green Smoothie Bar,"236 James St N, Hamilton ON L8R 2L3",43.262671,-79.866431,849.0,Bar
+20,Bay at Strachan,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,24.0,Fish and Chips Shop
+21,Bay at Strachan,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,232.0,Park
+22,Bay at Strachan,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,364.0,Arts and Entertainment
+23,Bay at Strachan,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,401.0,Diner
+24,Bay at Strachan,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,407.0,Coffee Shop
+25,Bay at Strachan,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,573.0,BBQ Joint
+26,Bay at Strachan,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,608.0,Restaurant
+27,Bay at Strachan,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,594.0,Sports and Recreation
+28,Bay at Strachan,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,687.0,Bakery
+29,Bay at Strachan,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,685.0,Café
+30,Bay at Mulberry,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,327.0,Deli
+31,Bay at Mulberry,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,418.0,Café
+32,Bay at Mulberry,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,452.0,Bar
+33,Bay at Mulberry,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,445.0,BBQ Joint
+34,Bay at Mulberry,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,477.0,Farmers Market
+35,Bay at Mulberry,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,474.0,Arts and Entertainment
+36,Bay at Mulberry,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,525.0,Bar
+37,Bay at Mulberry,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,538.0,Coffee Shop
+38,Bay at Mulberry,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,542.0,Arts and Entertainment
+39,Bay at Mulberry,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,561.0,Restaurant
+40,City Hall,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,281.0,Museum
+41,City Hall,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,253.0,Restaurant
+42,City Hall,Hess Village,Hamilton ON,43.258433,-79.87756,357.0,Neighborhood
+43,City Hall,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,362.0,Bar
+44,City Hall,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,415.0,Fried Chicken Joint
+45,City Hall,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,415.0,Fried Chicken Joint
+46,City Hall,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,488.0,Lebanese Restaurant
+47,City Hall,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,465.0,Coffee Shop
+48,City Hall,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,502.0,Farmers Market
+49,City Hall,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,525.0,American Restaurant
+50,Bay at Bold,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,274.0,Museum
+51,Bay at Bold,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,363.0,American Restaurant
+52,Bay at Bold,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,379.0,Café
+53,Bay at Bold,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,473.0,Pub
+54,Bay at Bold,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,464.0,Pub
+55,Bay at Bold,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,504.0,Café
+56,Bay at Bold,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,494.0,Ethiopian Restaurant
+57,Bay at Bold,Hess Village,Hamilton ON,43.258433,-79.87756,544.0,Neighborhood
+58,Bay at Bold,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,519.0,Restaurant
+59,Bay at Bold,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,541.0,Bar
+60,James S at Charlton,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,48.0,Café
+61,James S at Charlton,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,63.0,Ethiopian Restaurant
+62,James S at Charlton,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,242.0,American Restaurant
+63,James S at Charlton,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,297.0,Pub
+64,James S at Charlton,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,317.0,Pub
+65,James S at Charlton,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,520.0,Museum
+66,James S at Charlton,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,588.0,Café
+67,James S at Charlton,Sam Lawrence Park,"Concession St, Hamilton ON",43.244494,-79.86608,711.0,Park
+68,James S at Charlton,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,703.0,Sushi Restaurant
+69,James S at Charlton,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,794.0,Burrito Restaurant
+70,Oxford at York,Mustard Seed Coop,"460 York Blvd, Hamilton ON L8R 3J8",43.266024,-79.882166,403.0,Home Improvement Service
+71,Oxford at York,City Window & Glass,"208 Queen St N, Hamilton ON L8R 2W3",43.266006,-79.875924,220.0,Doors and Windows Contractor
+72,Oxford at York,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,576.0,Lebanese Restaurant
+73,Oxford at York,Bayfront Property Care,"Crooks St (at york blvd), Hamilton ON",43.266249,-79.88006,255.0,Landscaper and Gardener
+74,Oxford at York,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,578.0,Coffee Shop
+75,Oxford at York,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,596.0,Fried Chicken Joint
+76,Oxford at York,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,599.0,Fried Chicken Joint
+77,Oxford at York,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,623.0,Arts and Entertainment
+78,Oxford at York,AVL Manufacturing,"243 Queen St N (Stuart Street), Hamilton ON L8R 3N6",43.267462,-79.875607,359.0,Metals Supplier
+79,Oxford at York,Hess Village,Hamilton ON,43.258433,-79.87756,677.0,Neighborhood
+80,Queen at Peter,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,286.0,Lebanese Restaurant
+81,Queen at Peter,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,284.0,Coffee Shop
+82,Queen at Peter,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,298.0,Fried Chicken Joint
+83,Queen at Peter,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,301.0,Fried Chicken Joint
+84,Queen at Peter,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,344.0,Arts and Entertainment
+85,Queen at Peter,Hess Village,Hamilton ON,43.258433,-79.87756,379.0,Neighborhood
+86,Queen at Peter,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,387.0,Bar
+87,Queen at Peter,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,458.0,Deli
+88,Queen at Peter,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,509.0,Restaurant
+89,Queen at Peter,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,696.0,Farmers Market
+90,West at Cannon,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,75.0,Drugstore
+91,West at Cannon,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,219.0,Fast Food Restaurant
+92,West at Cannon,Hasty Market,"Wellington St N (Cannon St W), Hamilton ON",43.256772,-79.858264,194.0,Convenience Store
+93,West at Cannon,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,530.0,Music Venue
+94,West at Cannon,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,557.0,Café
+95,West at Cannon,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,576.0,Deli
+96,West at Cannon,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,589.0,German Restaurant
+97,West at Cannon,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,449.0,"Cafe, Coffee, and Tea House"
+98,West at Cannon,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,685.0,Diner
+99,West at Cannon,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,506.0,Beer Store
+100,Forsyth at Sterling,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,181.0,Coffee Shop
+101,Forsyth at Sterling,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,435.0,Pub
+102,Forsyth at Sterling,Travel Cuts,"Musc 109C, Hamilton ON L8S 4S4",43.26342,-79.917772,167.0,N/A
+103,Forsyth at Sterling,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,186.0,Art Museum
+104,Forsyth at Sterling,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,366.0,Coffee Shop
+105,Forsyth at Sterling,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,271.0,Bookstore
+106,Forsyth at Sterling,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,597.0,Burger Joint
+107,Forsyth at Sterling,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,366.0,Drugstore
+108,Forsyth at Sterling,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,366.0,Salad Restaurant
+109,Forsyth at Sterling,Corner Cafe,"1280 Main St E (Emmerson), Hamilton ON L8K 1A9",43.259475,-79.917425,375.0,Café
+110,Gage at Cannon - ERI11,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,253.0,"Cafe, Coffee, and Tea House"
+111,Gage at Cannon - ERI11,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,361.0,Pizzeria
+112,Gage at Cannon - ERI11,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,485.0,"Cafe, Coffee, and Tea House"
+113,Gage at Cannon - ERI11,KFC,"Barton St, Hamilton ON L8L 6Y5",43.253767,-79.828036,300.0,Fast Food Restaurant
+114,Gage at Cannon - ERI11,Bernie Morelli Recreation Centre,"876 Cannon St E (Balsam Ave N), Hamilton ON L8L 0C6",43.249418,-79.830227,276.0,Sports and Recreation
+115,Gage at Cannon - ERI11,Hamilton Indoor Go Karts,"193 Cavell Ave, Hamilton ON L8L 8C9",43.254162,-79.823793,416.0,Amusement Park
+116,Gage at Cannon - ERI11,Dollarama,"869 Barton St E, Hamilton ON L8L 3B4",43.254807,-79.827054,414.0,Discount Store
+117,Gage at Cannon - ERI11,Subway,"847 Barton St E, Hamilton ON L8L 3B4",43.254767,-79.828299,411.0,Deli
+118,Gage at Cannon - ERI11,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,656.0,Café
+119,Gage at Cannon - ERI11,Tim Hortons,"954 Barton St E, Hamilton ON L8L 3C5",43.252955,-79.822194,449.0,Restaurant
+120,H.A.A.A. Park,Queen's Pizza & Wings,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",43.253876,-79.881327,63.0,Pizzeria
+121,H.A.A.A. Park,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,333.0,Bakery
+122,H.A.A.A. Park,HAAA Park,,43.253911,-79.883049,104.0,Park
+123,H.A.A.A. Park,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,366.0,Coffee Shop
+124,H.A.A.A. Park,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,378.0,Café
+125,H.A.A.A. Park,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,434.0,Bakery
+126,H.A.A.A. Park,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,352.0,Soup Spot
+127,H.A.A.A. Park,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,386.0,Bagel Shop
+128,H.A.A.A. Park,AMO Gelato Caffe,"171 Locke St N, Hamilton ON L8R 3B1",43.255633,-79.885563,328.0,Coffee Shop
+129,H.A.A.A. Park,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,593.0,Arts and Entertainment
+130,Hunter at Hess,Hess Village,Hamilton ON,43.258433,-79.87756,360.0,Neighborhood
+131,Hunter at Hess,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,348.0,Bar
+132,Hunter at Hess,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,447.0,Lebanese Restaurant
+133,Hunter at Hess,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,412.0,Arts and Entertainment
+134,Hunter at Hess,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,429.0,Café
+135,Hunter at Hess,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,446.0,Coffee Shop
+136,Hunter at Hess,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,441.0,Fried Chicken Joint
+137,Hunter at Hess,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,436.0,Fried Chicken Joint
+138,Hunter at Hess,Queen's Pizza & Wings,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",43.253876,-79.881327,264.0,Pizzeria
+139,Hunter at Hess,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,537.0,Coffee Shop
+140,Dunsmure at Sherman - ERI10,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,199.0,Drugstore
+141,Dunsmure at Sherman - ERI10,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,341.0,Café
+142,Dunsmure at Sherman - ERI10,Lakeside Insurance & Financial,"957 King St E, Hamilton ON L8M 1C3",43.251249,-79.835986,307.0,Insurance Agency
+143,Dunsmure at Sherman - ERI10,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,559.0,"Cafe, Coffee, and Tea House"
+144,Dunsmure at Sherman - ERI10,Stipley Neighbourhood,"King St E (at Barnesdale), Hamilton ON L8L 2L7",43.251213,-79.83539,357.0,Other Great Outdoors
+145,Dunsmure at Sherman - ERI10,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,756.0,"Cafe, Coffee, and Tea House"
+146,Dunsmure at Sherman - ERI10,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,786.0,"Cafe, Coffee, and Tea House"
+147,Dunsmure at Sherman - ERI10,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,976.0,"Cafe, Coffee, and Tea House"
+148,Dunsmure at Sherman - ERI10,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,843.0,Pizzeria
+149,Dunsmure at Sherman - ERI10,Christon Motors,"1121 King St E (Balsam Ave. N), Hamilton ON L8M 1E5",43.249011,-79.829695,659.0,Used Car Dealership
+150,King at Dunsmure - ERI09,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,234.0,Pizzeria
+151,King at Dunsmure - ERI09,Gage Park Manor,"222 Gage Ave S (At Main St.), Hamilton ON L8M 3M4",43.241353,-79.831836,520.0,Real Estate Agency
+152,King at Dunsmure - ERI09,McDonald's,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",43.244575,-79.825565,229.0,Burger Joint
+153,King at Dunsmure - ERI09,Pizza Pizza,"1296 King St E, Hamilton ON L8M 1G8",43.243909,-79.824758,319.0,Pizzeria
+154,King at Dunsmure - ERI09,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,581.0,"Cafe, Coffee, and Tea House"
+155,King at Dunsmure - ERI09,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,693.0,"Cafe, Coffee, and Tea House"
+156,King at Dunsmure - ERI09,Dollarama,"1124 Main St E, Hamilton ON L8M 1N9",43.24296,-79.822559,505.0,Discount Store
+157,King at Dunsmure - ERI09,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,753.0,Café
+158,King at Dunsmure - ERI09,Hambrgr,"207 Ottawa St N, Hamilton ON L8H 3Z4",43.248248,-79.817435,784.0,Bar
+159,King at Dunsmure - ERI09,Christon Motors,"1121 King St E (Balsam Ave. N), Hamilton ON L8M 1E5",43.249011,-79.829695,438.0,Used Car Dealership
+160,Locke at Napier,Mustard Seed Coop,"460 York Blvd, Hamilton ON L8R 3J8",43.266024,-79.882166,373.0,Home Improvement Service
+161,Locke at Napier,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,508.0,Lebanese Restaurant
+162,Locke at Napier,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,494.0,Arts and Entertainment
+163,Locke at Napier,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,532.0,Coffee Shop
+164,Locke at Napier,Tim Hortons,"620 King St W (Dundurn St), Hamilton ON L8P 1C2",43.262695,-79.887366,385.0,"Cafe, Coffee, and Tea House"
+165,Locke at Napier,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,586.0,Fried Chicken Joint
+166,Locke at Napier,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,586.0,Fried Chicken Joint
+167,Locke at Napier,Hess Village,Hamilton ON,43.258433,-79.87756,639.0,Neighborhood
+168,Locke at Napier,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,636.0,Bar
+169,Locke at Napier,Dundurn Castle,"610 York Blvd, Hamilton ON L8R 3H1",43.26944,-79.88468,767.0,History Museum
+170,York at Inchbury,Mustard Seed Coop,"460 York Blvd, Hamilton ON L8R 3J8",43.266024,-79.882166,37.0,Home Improvement Service
+171,York at Inchbury,Bayfront Property Care,"Crooks St (at york blvd), Hamilton ON",43.266249,-79.88006,152.0,Landscaper and Gardener
+172,York at Inchbury,Carrothers and Associates Inc,"505 York Blvd, Hamilton ON L8R 3K4",43.266871,-79.883821,170.0,Construction
+173,York at Inchbury,Dundurn Castle,"610 York Blvd, Hamilton ON L8R 3H1",43.26944,-79.88468,477.0,History Museum
+174,York at Inchbury,Realtors Association of Hamilton-Burlington,"505 York Blvd, Hamilton ON L8R 3K4",43.266584,-79.884084,208.0,Non-Profit Organization
+175,York at Inchbury,AVL Manufacturing,"243 Queen St N (Stuart Street), Hamilton ON L8R 3N6",43.267462,-79.875607,396.0,Metals Supplier
+176,York at Inchbury,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,774.0,Lebanese Restaurant
+177,York at Inchbury,Tim Hortons,"620 King St W (Dundurn St), Hamilton ON L8P 1C2",43.262695,-79.887366,587.0,"Cafe, Coffee, and Tea House"
+178,York at Inchbury,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,790.0,Coffee Shop
+179,York at Inchbury,Bel Canto Strings Academy,"505 York Blvd, Hamilton ON L8R 3K4",43.266716,-79.883828,459.0,Music School
+180,Aberdeen at Queen,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,500.0,Bakery
+181,Aberdeen at Queen,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,495.0,Café
+182,Aberdeen at Queen,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,548.0,Bagel Shop
+183,Aberdeen at Queen,Shoppers Drug Mart,"113 Herkimer St (at Caroline St. S), Hamilton ON L8P 2G8",43.250249,-79.879044,447.0,Drugstore
+184,Aberdeen at Queen,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,636.0,Bakery
+185,Aberdeen at Queen,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,779.0,Bakery
+186,Aberdeen at Queen,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,830.0,American Restaurant
+187,Aberdeen at Queen,Building Blocks Speech Pathology,"254 Bay St S, Hamilton ON L8P 3J4",43.250735,-79.877087,459.0,Rehabilitation Center
+188,Aberdeen at Queen,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,829.0,Coffee Shop
+189,Aberdeen at Queen,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,770.0,Soup Spot
+190,King at Dundurn,Tim Hortons,"620 King St W (Dundurn St), Hamilton ON L8P 1C2",43.262695,-79.887366,41.0,"Cafe, Coffee, and Tea House"
+191,King at Dundurn,Tim Hortons,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.26054,-79.889922,264.0,"Cafe, Coffee, and Tea House"
+192,King at Dundurn,Subway,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.260833,-79.88974,202.0,Deli
+193,King at Dundurn,Mr Dumpling Express,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.261466,-79.889523,236.0,Chinese Restaurant
+194,King at Dundurn,Tim Hortons,"443 Main St W, Hamilton ON L8P 1K5",43.259326,-79.887537,348.0,"Cafe, Coffee, and Tea House"
+195,King at Dundurn,Mustard Seed Coop,"460 York Blvd, Hamilton ON L8R 3J8",43.266024,-79.882166,620.0,Home Improvement Service
+196,King at Dundurn,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,724.0,Coffee Shop
+197,King at Dundurn,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,740.0,Retail
+198,King at Dundurn,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,678.0,Rock Climbing Spot
+199,King at Dundurn,Bel Canto Strings Academy,"505 York Blvd, Hamilton ON L8R 3K4",43.266716,-79.883828,433.0,Music School
+200,Main at Dundurn,Tim Hortons,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.26054,-79.889922,107.0,"Cafe, Coffee, and Tea House"
+201,Main at Dundurn,Mr Dumpling Express,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.261466,-79.889523,94.0,Chinese Restaurant
+202,Main at Dundurn,Tim Hortons,"443 Main St W, Hamilton ON L8P 1K5",43.259326,-79.887537,138.0,"Cafe, Coffee, and Tea House"
+203,Main at Dundurn,Subway,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.260833,-79.88974,149.0,Deli
+204,Main at Dundurn,Tim Hortons,"620 King St W (Dundurn St), Hamilton ON L8P 1C2",43.262695,-79.887366,344.0,"Cafe, Coffee, and Tea House"
+205,Main at Dundurn,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,421.0,Rock Climbing Spot
+206,Main at Dundurn,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,494.0,Coffee Shop
+207,Main at Dundurn,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,532.0,Soup Spot
+208,Main at Dundurn,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,576.0,Liquor Store
+209,Main at Dundurn,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,651.0,Bakery
+210,Dundurn St S,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,20.0,Liquor Store
+211,Dundurn St S,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,319.0,Bakery
+212,Dundurn St S,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,401.0,Bakery
+213,Dundurn St S,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,440.0,American Restaurant
+214,Dundurn St S,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,388.0,Bagel Shop
+215,Dundurn St S,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,397.0,Bakery
+216,Dundurn St S,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,466.0,Coffee Shop
+217,Dundurn St S,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,424.0,Soup Spot
+218,Dundurn St S,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,447.0,Rock Climbing Spot
+219,Dundurn St S,AMO Gelato Caffe,"171 Locke St N, Hamilton ON L8R 3B1",43.255633,-79.885563,458.0,Coffee Shop
+220,McMaster Mary Keyes,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,102.0,Pub
+221,McMaster Mary Keyes,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,160.0,Coffee Shop
+222,McMaster Mary Keyes,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,159.0,Salad Restaurant
+223,McMaster Mary Keyes,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,160.0,Drugstore
+224,McMaster Mary Keyes,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,394.0,Coffee Shop
+225,McMaster Mary Keyes,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,314.0,Bookstore
+226,McMaster Mary Keyes,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,335.0,Art Museum
+227,McMaster Mary Keyes,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,584.0,Burger Joint
+228,McMaster Mary Keyes,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,610.0,Coffee Shop
+229,McMaster Mary Keyes,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,546.0,Diner
+230,McMaster Health Sciences,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,359.0,Pub
+231,McMaster Health Sciences,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,305.0,Burger Joint
+232,McMaster Health Sciences,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,102.0,Bookstore
+233,McMaster Health Sciences,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,251.0,Coffee Shop
+234,McMaster Health Sciences,Corner Cafe,"1280 Main St E (Emmerson), Hamilton ON L8K 1A9",43.259475,-79.917425,117.0,Café
+235,McMaster Health Sciences,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,360.0,Coffee Shop
+236,McMaster Health Sciences,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,335.0,Deli
+237,McMaster Health Sciences,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,235.0,Art Museum
+238,McMaster Health Sciences,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,252.0,Drugstore
+239,McMaster Health Sciences,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,252.0,Salad Restaurant
+240,McMaster Arthur Bourns,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,345.0,Pub
+241,McMaster Arthur Bourns,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,275.0,Diner
+242,McMaster Arthur Bourns,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,376.0,Coffee Shop
+243,McMaster Arthur Bourns,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,370.0,Burger Joint
+244,McMaster Arthur Bourns,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,303.0,Coffee Shop
+245,McMaster Arthur Bourns,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,301.0,Chinese Restaurant
+246,McMaster Arthur Bourns,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,394.0,Deli
+247,McMaster Arthur Bourns,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,303.0,Salad Restaurant
+248,McMaster Arthur Bourns,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,304.0,Drugstore
+249,McMaster Arthur Bourns,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,340.0,Bookstore
+250,McMaster Emerson,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,80.0,Coffee Shop
+251,McMaster Emerson,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,78.0,Burger Joint
+252,McMaster Emerson,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,96.0,Deli
+253,McMaster Emerson,Cedars,"1355 Main St W, Hamilton ON",43.257574,-79.918863,77.0,Middle Eastern Restaurant
+254,McMaster Emerson,McMaster Sports Ltd,"1331 Main St W (btw Broadway Ave. & Emerson St.), Hamilton ON L8S 1C6",43.257529,-79.918717,115.0,Bicycle Store
+255,McMaster Emerson,Yogurty's,"1309 Main St W, Hamilton ON L8S 1C5",43.257291,-79.918114,136.0,Frozen Yogurt Shop
+256,McMaster Emerson,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,304.0,Diner
+257,McMaster Emerson,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,558.0,Pub
+258,McMaster Emerson,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,359.0,Chinese Restaurant
+259,McMaster Emerson,Corner Cafe,"1280 Main St E (Emmerson), Hamilton ON L8K 1A9",43.259475,-79.917425,248.0,Café
+260,Longwood at Edgevale,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,377.0,Bakery
+261,Longwood at Edgevale,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,486.0,Retail
+262,Longwood at Edgevale,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,634.0,Burger Joint
+263,Longwood at Edgevale,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,662.0,Restaurant
+264,Longwood at Edgevale,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,674.0,Indie Movie Theater
+265,Longwood at Edgevale,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,741.0,Vietnamese Restaurant
+266,Longwood at Edgevale,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,813.0,Bakery
+267,Longwood at Edgevale,Ginger Valley Trail,Hamilton ON,43.269366,-79.903108,454.0,Hiking Trail
+268,Longwood at Edgevale,Princess Point,"199 Longwood Rd N, Hamilton ON",43.273234,-79.895045,858.0,Hiking Trail
+269,Longwood at Edgevale,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,993.0,Rock Climbing Spot
+270,Longwood at King,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,161.0,Bakery
+271,Longwood at King,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,323.0,Retail
+272,Longwood at King,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,365.0,Burger Joint
+273,Longwood at King,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,374.0,Restaurant
+274,Longwood at King,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,397.0,Indie Movie Theater
+275,Longwood at King,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,455.0,Vietnamese Restaurant
+276,Longwood at King,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,515.0,Bakery
+277,Longwood at King,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,780.0,Rock Climbing Spot
+278,Longwood at King,Soccer World,"104 Frid St, Hamilton ON L8P 4M4",43.257263,-79.893957,826.0,Bicycle Store
+279,Longwood at King,Tim Hortons,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.26054,-79.889922,936.0,"Cafe, Coffee, and Tea House"
+280,Chedoke Stairs,Chedoke Golf Course Trail,"Chedoke Ave (Glenside), Hamilton ON",43.24632,-79.907444,53.0,Hiking Trail
+281,Chedoke Stairs,Cliffview Falls,"589 Scenic Dr (W 31st), Hamilton ON L9C 1H1",43.244723,-79.907126,198.0,Scenic Lookout
+282,Chedoke Stairs,Cliffview Park,,43.244046,-79.907197,228.0,Park
+283,Chedoke Stairs,Scenic Paradise,"99 Upper Paradise Rd, Hamilton ON L9C 5B6",43.243695,-79.906959,283.0,Food and Beverage Retail
+284,Chedoke Stairs,Scenic Paradise,"567 Scenic Dr (Upper Paradise), Hamilton ON L9C 1G9",43.243756,-79.906588,290.0,Food and Beverage Retail
+285,Chedoke Stairs,Chedoke Woodland Trail,,43.250368,-79.900668,764.0,Hiking Trail
+286,Chedoke Stairs,Cross of Lorraine,"Sanatorium Rd (Scenic Drive), Hamilton ON",43.244937,-79.917361,771.0,Public Art
+287,Chedoke Stairs,Chedoke Waterfalls,Hamilton ON,43.242339,-79.899629,806.0,Hiking Trail
+288,Chedoke Stairs,Webers Hamburgers,"8844 11 Hwy S, Orillia ON L3V 6H3",43.247705,-79.898223,834.0,Burger Joint
+289,Chedoke Stairs,Chedoke School,"500 Bendamere Ave, Hamilton ON L9C 1R3",43.238628,-79.905673,836.0,Elementary School
+290,McMaster Innovation Park,BuckitLife,"175 Longwood Rd S, Hamilton ON L8P 0A1",43.256629,-79.900712,35.0,Arts and Entertainment
+291,McMaster Innovation Park,Natural Resources Canada CANMET - MTL,"183 Longwood Rd S, Hamilton ON L8P 0A5",43.25701,-79.901404,38.0,Government Building
+292,McMaster Innovation Park,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,715.0,Bakery
+293,McMaster Innovation Park,Camelot Towers,"1001 Main St W (Main & Paisley), Hamilton ON L8S 1A9",43.257659,-79.905477,365.0,Office Building
+294,McMaster Innovation Park,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,607.0,Rock Climbing Spot
+295,McMaster Innovation Park,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,699.0,Retail
+296,McMaster Innovation Park,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,756.0,Burger Joint
+297,McMaster Innovation Park,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,723.0,Restaurant
+298,McMaster Innovation Park,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,717.0,Bakery
+299,McMaster Innovation Park,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,734.0,Vietnamese Restaurant
+300,Macklin at King,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,51.0,Retail
+301,Macklin at King,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,212.0,Bakery
+302,Macklin at King,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,490.0,Rock Climbing Spot
+303,Macklin at King,Tim Hortons,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.26054,-79.889922,564.0,"Cafe, Coffee, and Tea House"
+304,Macklin at King,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,724.0,Burger Joint
+305,Macklin at King,Soccer World,"104 Frid St, Hamilton ON L8P 4M4",43.257263,-79.893957,564.0,Bicycle Store
+306,Macklin at King,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,725.0,Restaurant
+307,Macklin at King,Mr Dumpling Express,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.261466,-79.889523,609.0,Chinese Restaurant
+308,Macklin at King,Subway,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.260833,-79.88974,577.0,Deli
+309,Macklin at King,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,750.0,Indie Movie Theater
+310,Dundurn at Aberdeen,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,62.0,American Restaurant
+311,Dundurn at Aberdeen,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,79.0,Bakery
+312,Dundurn at Aberdeen,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,480.0,Bakery
+313,Dundurn at Aberdeen,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,378.0,Liquor Store
+314,Dundurn at Aberdeen,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,530.0,Bagel Shop
+315,Dundurn at Aberdeen,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,619.0,Bakery
+316,Dundurn at Aberdeen,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,783.0,Coffee Shop
+317,Dundurn at Aberdeen,Beulah Park,"59 Beulah Ave (Beulah and Aberdeen), Hamilton ON",43.247537,-79.892522,456.0,Playground
+318,Dundurn at Aberdeen,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,721.0,Soup Spot
+319,Dundurn at Aberdeen,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,751.0,Rock Climbing Spot
+320,Dundurn Stairs,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,541.0,American Restaurant
+321,Dundurn Stairs,Beulah Park,"59 Beulah Ave (Beulah and Aberdeen), Hamilton ON",43.247537,-79.892522,236.0,Playground
+322,Dundurn Stairs,Highland Gardens Park,"Hillcrest Ave, Hamilton ON L8P 4L9",43.246462,-79.891151,294.0,Park
+323,Dundurn Stairs,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,653.0,Bakery
+324,Dundurn Stairs,Webers Hamburgers,"8844 11 Hwy S, Orillia ON L3V 6H3",43.247705,-79.898223,311.0,Burger Joint
+325,Dundurn Stairs,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,930.0,Bakery
+326,Dundurn Stairs,Bruce Trail Dundurn,Hamilton ON,43.243897,-79.889603,527.0,Hiking Trail
+327,Dundurn Stairs,Chedoke Waterfalls,Hamilton ON,43.242339,-79.899629,598.0,Hiking Trail
+328,Dundurn Stairs,Chedoke Woodland Trail,,43.250368,-79.900668,626.0,Hiking Trail
+329,Dundurn Stairs,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,1000.0,Bagel Shop
+330,Cootes Drive Dundas,Canadian Tire,"50 Cootes Dr, Dundas ON L9H 1B6",43.264984,-79.945911,145.0,Department Store
+331,Cootes Drive Dundas,Subway,"38 York Rd, Dundas ON L9H 1L4",43.266201,-79.94969,170.0,Deli
+332,Cootes Drive Dundas,Beer Store,"55 Cootes Dr (East St. S.), Dundas ON L9H 1B5",43.266204,-79.945331,214.0,Beer Store
+333,Cootes Drive Dundas,Tim Hortons,"38 York Rd (York St & Cootes Drive), Dundas ON L9H 1L4",43.265884,-79.94945,156.0,"Cafe, Coffee, and Tea House"
+334,Cootes Drive Dundas,McDonald's,"120 King St W, Hamilton ON L8P 4V2",43.265189,-79.949838,179.0,Burger Joint
+335,Cootes Drive Dundas,Pizza Pizza,"4 Cootes Dr, Dundas ON L9H 1A9",43.265268,-79.95018,210.0,Pizzeria
+336,Cootes Drive Dundas,Heirlooms Bridal Shoppe,"19 King St W (at Ogilvie St), Dundas ON L9H 1T5",43.266229,-79.954434,529.0,Bridal Store
+337,Cootes Drive Dundas,Cumbraes of Dundas,"26 King St W (btw Ogilvie St & Millers Ln), Dundas ON L9H 1T7",43.266269,-79.95528,542.0,Butcher
+338,Cootes Drive Dundas,Detour Roaster's Cafe,"41B King St W (Miller's Line), Dundas ON L9H 1T5",43.266194,-79.955532,635.0,Café
+339,Cootes Drive Dundas,Picone's Food Mkt Inc,"34 King St W (Ogilvie St.), Dundas ON L9H 1T7",43.266143,-79.955477,628.0,Grocery Store
+340,Princess Point,Princess Point,"199 Longwood Rd N, Hamilton ON",43.273234,-79.895045,194.0,Hiking Trail
+341,Princess Point,Hamilton Cemetery,"777 York Blvd, Hamilton ON L8R 2A4",43.275256,-79.889868,453.0,Cemetery
+342,Princess Point,Dundurn Castle,"610 York Blvd, Hamilton ON L8R 3H1",43.26944,-79.88468,844.0,History Museum
+343,Princess Point,Sassafras Point Trail,Dundas ON,43.27215,-79.903998,773.0,Hiking Trail
+344,Princess Point,Desjardins Canal,"920 York Blvd, Hamilton ON",43.279334,-79.890867,775.0,Bridge
+345,Princess Point,First Call Lighting Fixture & Lamp Repair,"50 Jones St, Hamilton ON L8R 1Y1",43.267762,-79.887753,795.0,Business and Professional Services
+346,Princess Point,Ginger Valley Trail,Hamilton ON,43.269366,-79.903108,811.0,Hiking Trail
+347,Princess Point,Tom Street Park,ON,43.267016,-79.887914,862.0,Park
+348,Princess Point,Eunhae Korean Grocery,"460 York Blvd, Hamilton ON L8R 3J8",43.271778,-79.88348,899.0,Grocery Store
+349,Princess Point,Cootes Paradise,Dundas ON,43.281344,-79.895076,942.0,Lake
+350,Pearl Street Bridge,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,166.0,Coffee Shop
+351,Pearl Street Bridge,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,511.0,Lebanese Restaurant
+352,Pearl Street Bridge,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,513.0,Bakery
+353,Pearl Street Bridge,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,532.0,Coffee Shop
+354,Pearl Street Bridge,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,510.0,Bar
+355,Pearl Street Bridge,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,667.0,Café
+356,Pearl Street Bridge,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,861.0,Bakery
+357,Pearl Street Bridge,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,818.0,Restaurant
+358,Pearl Street Bridge,Art Gallery of Hamilton,"123 King St W (King St. and Bay St.), Hamilton ON L8P 4S8",43.257458,-79.87215,907.0,Museum
+359,Pearl Street Bridge,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,991.0,American Restaurant
+360,Rail Trail at Emerson,West End Restaurant,"151 Emerson St, Hamilton ON L8S 2Y1",43.253115,-79.921535,184.0,Diner
+361,Rail Trail at Emerson,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,323.0,Coffee Shop
+362,Rail Trail at Emerson,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,382.0,Burger Joint
+363,Rail Trail at Emerson,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,357.0,Deli
+364,Rail Trail at Emerson,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,394.0,Diner
+365,Rail Trail at Emerson,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,425.0,Chinese Restaurant
+366,Rail Trail at Emerson,Yogurty's,"1309 Main St W, Hamilton ON L8S 1C5",43.257291,-79.918114,373.0,Frozen Yogurt Shop
+367,Rail Trail at Emerson,Cedars,"1355 Main St W, Hamilton ON",43.257574,-79.918863,373.0,Middle Eastern Restaurant
+368,Rail Trail at Emerson,McMaster Sports Ltd,"1331 Main St W (btw Broadway Ave. & Emerson St.), Hamilton ON L8S 1C6",43.257529,-79.918717,377.0,Bicycle Store
+369,Rail Trail at Emerson,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,656.0,Retail
+370,Westdale Library,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,148.0,Burger Joint
+371,Westdale Library,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,158.0,Restaurant
+372,Westdale Library,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,179.0,Indie Movie Theater
+373,Westdale Library,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,240.0,Vietnamese Restaurant
+374,Westdale Library,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,304.0,Bakery
+375,Westdale Library,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,374.0,Bakery
+376,Westdale Library,Adas Israel Synagogue,"125 Cline Ave S, Hamilton ON L8S 1X2",43.256725,-79.910326,125.0,Synagogue
+377,Westdale Library,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,527.0,Retail
+378,Westdale Library,UC Baby Hamilton 3D & 4D Ultrasound,"769 King St W, Hamilton ON L8S 1J9",43.262024,-79.896378,579.0,Medical Center
+379,Westdale Library,Camelot Towers,"1001 Main St W (Main & Paisley), Hamilton ON L8S 1A9",43.257659,-79.905477,580.0,Office Building
+380,Emerson at Whitney,West End Restaurant,"151 Emerson St, Hamilton ON L8S 2Y1",43.253115,-79.921535,119.0,Diner
+381,Emerson at Whitney,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,627.0,Coffee Shop
+382,Emerson at Whitney,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,644.0,Retail
+383,Emerson at Whitney,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,686.0,Burger Joint
+384,Emerson at Whitney,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,618.0,Diner
+385,Emerson at Whitney,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,849.0,Brewery
+386,Emerson at Whitney,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,660.0,Deli
+387,Emerson at Whitney,Wayne Gretsky Arena,"254 N Park St, Brantford ON N3R 4L1",43.249727,-79.91762,470.0,Stadium
+388,Emerson at Whitney,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,627.0,Chinese Restaurant
+389,Emerson at Whitney,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,917.0,Brewery
+390,Sterling at Whitton,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,527.0,Bakery
+391,Sterling at Whitton,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,565.0,Vietnamese Restaurant
+392,Sterling at Whitton,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,637.0,Pub
+393,Sterling at Whitton,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,381.0,Coffee Shop
+394,Sterling at Whitton,St Paul's Anglican Church,"1140 King St W, Hamilton ON L8S 1M1",43.260587,-79.910287,308.0,Church
+395,Sterling at Whitton,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,644.0,Burger Joint
+396,Sterling at Whitton,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,639.0,Restaurant
+397,Sterling at Whitton,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,614.0,Indie Movie Theater
+398,Sterling at Whitton,Travel Cuts,"Musc 109C, Hamilton ON L8S 4S4",43.26342,-79.917772,369.0,N/A
+399,Sterling at Whitton,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,386.0,Art Museum
+400,Sterling at Haddon,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,276.0,Bakery
+401,Sterling at Haddon,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,313.0,Vietnamese Restaurant
+402,Sterling at Haddon,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,397.0,Burger Joint
+403,Sterling at Haddon,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,365.0,Indie Movie Theater
+404,Sterling at Haddon,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,390.0,Restaurant
+405,Sterling at Haddon,St Paul's Anglican Church,"1140 King St W, Hamilton ON L8S 1M1",43.260587,-79.910287,156.0,Church
+406,Sterling at Haddon,Fred Astaire Franchised Dance Studios,"1092 Main St W, Hamilton ON L8S 1B3",43.258372,-79.910003,427.0,Arts and Entertainment
+407,Sterling at Haddon,Porcelain Hotpot & Lounge,"1122 Main St W, Hamilton ON L8S 1C1",43.258235,-79.911047,444.0,Restaurant
+408,Sterling at Haddon,Active Relief Centre,"1057 Main St W, Hamilton ON L8S 1B7",43.257919,-79.908628,486.0,Chiropractor
+409,Sterling at Haddon,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,889.0,Pub
+410,Sanders at Hollywood,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,315.0,Chinese Restaurant
+411,Sanders at Hollywood,Boston Pizza,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",43.257231,-79.927615,308.0,Pizzeria
+412,Sanders at Hollywood,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,348.0,Diner
+413,Sanders at Hollywood,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,547.0,Pub
+414,Sanders at Hollywood,Joya Restaurant,"1630 Main St W, Hamilton ON L8S 1G3",43.257727,-79.931316,461.0,Sushi Restaurant
+415,Sanders at Hollywood,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,546.0,Brewery
+416,Sanders at Hollywood,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,542.0,Retail
+417,Sanders at Hollywood,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,662.0,Brewery
+418,Sanders at Hollywood,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,641.0,Coffee Shop
+419,Sanders at Hollywood,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,564.0,Coffee Shop
+420,King at Cline,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,215.0,Bakery
+421,King at Cline,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,284.0,Vietnamese Restaurant
+422,King at Cline,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,390.0,Burger Joint
+423,King at Cline,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,365.0,Restaurant
+424,King at Cline,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,351.0,Indie Movie Theater
+425,King at Cline,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,873.0,Bakery
+426,King at Cline,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,885.0,Coffee Shop
+427,King at Cline,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,998.0,Pub
+428,King at Cline,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,1000.0,Retail
+429,King at Cline,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,909.0,Coffee Shop
+430,Rail Trail at Stroud,West End Restaurant,"151 Emerson St, Hamilton ON L8S 2Y1",43.253115,-79.921535,414.0,Diner
+431,Rail Trail at Stroud,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,476.0,Coffee Shop
+432,Rail Trail at Stroud,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,503.0,Burger Joint
+433,Rail Trail at Stroud,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,473.0,Deli
+434,Rail Trail at Stroud,Wayne Gretsky Arena,"254 N Park St, Brantford ON N3R 4L1",43.249727,-79.91762,444.0,Stadium
+435,Rail Trail at Stroud,Yogurty's,"1309 Main St W, Hamilton ON L8S 1C5",43.257291,-79.918114,454.0,Frozen Yogurt Shop
+436,Rail Trail at Stroud,McMaster Sports Ltd,"1331 Main St W (btw Broadway Ave. & Emerson St.), Hamilton ON L8S 1C6",43.257529,-79.918717,472.0,Bicycle Store
+437,Rail Trail at Stroud,Cedars,"1355 Main St W, Hamilton ON",43.257574,-79.918863,497.0,Middle Eastern Restaurant
+438,Rail Trail at Stroud,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,715.0,Diner
+439,Rail Trail at Stroud,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,757.0,Chinese Restaurant
+440,Main at Columbia College,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,328.0,Bakery
+441,Main at Columbia College,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,397.0,Vietnamese Restaurant
+442,Main at Columbia College,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,455.0,Restaurant
+443,Main at Columbia College,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,493.0,Burger Joint
+444,Main at Columbia College,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,456.0,Indie Movie Theater
+445,Main at Columbia College,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,860.0,Bakery
+446,Main at Columbia College,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,954.0,Retail
+447,Main at Columbia College,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,939.0,Coffee Shop
+448,Main at Columbia College,Shoppers Drug Mart,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,937.0,Drugstore
+449,Main at Columbia College,The Davey Tree Expert Co,"182 Chatham St, Hamilton ON L8P 2B6",43.257117,-79.896575,923.0,Construction
+450,King Street Dundas,Heirlooms Bridal Shoppe,"19 King St W (at Ogilvie St), Dundas ON L9H 1T5",43.266229,-79.954434,36.0,Bridal Store
+451,King Street Dundas,Cumbraes of Dundas,"26 King St W (btw Ogilvie St & Millers Ln), Dundas ON L9H 1T7",43.266269,-79.95528,48.0,Butcher
+452,King Street Dundas,Picone's Food Mkt Inc,"34 King St W (Ogilvie St.), Dundas ON L9H 1T7",43.266143,-79.955477,134.0,Grocery Store
+453,King Street Dundas,Detour Roaster's Cafe,"41B King St W (Miller's Line), Dundas ON L9H 1T5",43.266194,-79.955532,141.0,Café
+454,King Street Dundas,Starbucks,"46 King St W (Miller's Ln), Dundas ON L9H 1T8",43.266364,-79.956024,176.0,Coffee Shop
+455,King Street Dundas,Bangkok Spoon Deluxe,"57 King St W (btw Millers Ln & Sydenham St), Dundas ON L9H 1T5",43.266541,-79.956102,188.0,Soup Spot
+456,King Street Dundas,KFC,"49 King St E, Dundas ON L9H 1B7",43.265991,-79.950953,20.0,Fast Food Restaurant
+457,King Street Dundas,Beanermunky Chocolate,"50 King St W, Dundas ON L9H 1T8",43.26621,-79.956045,184.0,Candy Store
+458,King Street Dundas,Shawn & Ed Brewing Co,"65 Hatt St (Hatt Street & Memorial Square), Dundas ON L9H 0C1",43.265744,-79.957728,293.0,Arts and Entertainment
+459,King Street Dundas,Quatrefoil Restaurant,"16 Sydenham St (near King St W), Dundas ON L9H 2T4",43.267228,-79.95669,293.0,French Restaurant
+460,Hunter GO Centre,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,155.0,Pub
+461,Hunter GO Centre,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,174.0,Pub
+462,Hunter GO Centre,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,263.0,American Restaurant
+463,Hunter GO Centre,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,231.0,Museum
+464,Hunter GO Centre,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,326.0,Burrito Restaurant
+465,Hunter GO Centre,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,278.0,Sushi Restaurant
+466,Hunter GO Centre,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,305.0,Bubble Tea Shop
+467,Hunter GO Centre,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,456.0,Taco Restaurant
+468,Hunter GO Centre,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,448.0,Indian Restaurant
+469,Hunter GO Centre,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,423.0,Café
+470,Park at Robinson,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,248.0,American Restaurant
+471,Park at Robinson,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,296.0,Café
+472,Park at Robinson,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,291.0,Ethiopian Restaurant
+473,Park at Robinson,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,318.0,Café
+474,Park at Robinson,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,379.0,Pub
+475,Park at Robinson,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,396.0,Pub
+476,Park at Robinson,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,379.0,Museum
+477,Park at Robinson,Shoppers Drug Mart,"113 Herkimer St (at Caroline St. S), Hamilton ON L8P 2G8",43.250249,-79.879044,329.0,Drugstore
+478,Park at Robinson,Building Blocks Speech Pathology,"254 Bay St S, Hamilton ON L8P 3J4",43.250735,-79.877087,329.0,Rehabilitation Center
+479,Park at Robinson,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,785.0,Burrito Restaurant
+480,Main at Dalewood,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,407.0,Burger Joint
+481,Main at Dalewood,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,451.0,Coffee Shop
+482,Main at Dalewood,Porcelain Hotpot & Lounge,"1122 Main St W, Hamilton ON L8S 1C1",43.258235,-79.911047,228.0,Restaurant
+483,Main at Dalewood,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,405.0,Deli
+484,Main at Dalewood,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,675.0,Bakery
+485,Main at Dalewood,Corner Cafe,"1280 Main St E (Emmerson), Hamilton ON L8K 1A9",43.259475,-79.917425,349.0,Café
+486,Main at Dalewood,Fred Astaire Franchised Dance Studios,"1092 Main St W, Hamilton ON L8S 1B3",43.258372,-79.910003,353.0,Arts and Entertainment
+487,Main at Dalewood,Yogurty's,"1309 Main St W, Hamilton ON L8S 1C5",43.257291,-79.918114,364.0,Frozen Yogurt Shop
+488,Main at Dalewood,McMaster Sports Ltd,"1331 Main St W (btw Broadway Ave. & Emerson St.), Hamilton ON L8S 1C6",43.257529,-79.918717,378.0,Bicycle Store
+489,Main at Dalewood,Basilique,"1065 King St W, Hamilton ON L8S 1L8",43.261035,-79.907396,615.0,Diner
+490,John at Main,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,72.0,Sushi Restaurant
+491,John at Main,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,144.0,Burrito Restaurant
+492,John at Main,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,288.0,Indian Restaurant
+493,John at Main,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,304.0,Taco Restaurant
+494,John at Main,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,356.0,Pub
+495,John at Main,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,448.0,Music Venue
+496,John at Main,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,483.0,American Restaurant
+497,John at Main,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,556.0,Farmers Market
+498,John at Main,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,585.0,Café
+499,John at Main,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,548.0,Bar
+500,Stadium,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,100.0,"Cafe, Coffee, and Tea House"
+501,Stadium,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,340.0,Café
+502,Stadium,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,414.0,"Cafe, Coffee, and Tea House"
+503,Stadium,Bernie Morelli Recreation Centre,"876 Cannon St E (Balsam Ave N), Hamilton ON L8L 0C6",43.249418,-79.830227,242.0,Sports and Recreation
+504,Stadium,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,456.0,Pizzeria
+505,Stadium,Stipley Neighbourhood,"King St E (at Barnesdale), Hamilton ON L8L 2L7",43.251213,-79.83539,315.0,Other Great Outdoors
+506,Stadium,KFC,"Barton St, Hamilton ON L8L 6Y5",43.253767,-79.828036,380.0,Fast Food Restaurant
+507,Stadium,Subway,"847 Barton St E, Hamilton ON L8L 3B4",43.254767,-79.828299,418.0,Deli
+508,Stadium,Lakeside Insurance & Financial,"957 King St E, Hamilton ON L8M 1C3",43.251249,-79.835986,380.0,Insurance Agency
+509,Stadium,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,428.0,Burger Joint
+510,Osler at Main,Booster Juice,"1685 Main St W, Hamilton ON L8S 1G5",43.256602,-79.934278,71.0,Juice Bar
+511,Osler at Main,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,217.0,Brewery
+512,Osler at Main,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,292.0,Brewery
+513,Osler at Main,Joya Restaurant,"1630 Main St W, Hamilton ON L8S 1G3",43.257727,-79.931316,242.0,Sushi Restaurant
+514,Osler at Main,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,483.0,Retail
+515,Osler at Main,East Side Mario's Dundas,"119 Osler Dr, Dundas ON L9H 6X4",43.258387,-79.941538,601.0,Restaurant
+516,Osler at Main,West End Diner,"1811 Main St W, Hamilton ON L8S 1H6",43.252802,-79.938544,593.0,Diner
+517,Osler at Main,Right Wingers,"1850 Main St W, Hamilton ON L8S 4P7",43.252188,-79.939969,718.0,Pizzeria
+518,Osler at Main,Boston Pizza,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",43.257231,-79.927615,522.0,Pizzeria
+519,Osler at Main,University Plaza,"101 Osler Dr, Hamilton ON L9H 4H4",43.257342,-79.941313,668.0,College and University
+520,Main at Whitney,Right Wingers,"1850 Main St W, Hamilton ON L8S 4P7",43.252188,-79.939969,19.0,Pizzeria
+521,Main at Whitney,West End Diner,"1811 Main St W, Hamilton ON L8S 1H6",43.252802,-79.938544,139.0,Diner
+522,Main at Whitney,Ontario Fire Preventions,"1868 Main St W, Hamilton ON L8S 1J1",43.251836,-79.940187,49.0,Fire Station
+523,Main at Whitney,Chon-Ji Martial Arts,"405 Whitney Ave, Hamilton ON L8S 2H6",43.251406,-79.937656,167.0,Martial Arts Dojo
+524,Main at Whitney,Food 4 Kids,"407 Whitney Ave, Hamilton ON L8S 2H6",43.251398,-79.937701,207.0,Public and Social Service
+525,Main at Whitney,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,746.0,Brewery
+526,Main at Whitney,Shoppers Drug Mart,"101 Osler Dr, Dundas ON L9H 4H4",43.257088,-79.942429,594.0,Drugstore
+527,Main at Whitney,East Side Mario's Dundas,"119 Osler Dr, Dundas ON L9H 6X4",43.258387,-79.941538,715.0,Restaurant
+528,Main at Whitney,Canadian Tire,"119 Osler Dr (Main St. W.), Dundas ON L9H 6X4",43.25718,-79.941239,582.0,Department Store
+529,Main at Whitney,University Plaza,"101 Osler Dr, Hamilton ON L9H 4H4",43.257342,-79.941313,713.0,College and University
+530,Osler at Grant,Dollarama,"101 Osler Dr, Dundas ON L9H 4H4",43.258377,-79.943113,20.0,Discount Store
+531,Osler at Grant,Bulk Barn,"101 Osler Dr (in University Plaza), Dundas ON L9H 4H4",43.258797,-79.943463,66.0,Grocery Store
+532,Osler at Grant,East Side Mario's Dundas,"119 Osler Dr, Dundas ON L9H 6X4",43.258387,-79.941538,160.0,Restaurant
+533,Osler at Grant,University Plaza,"101 Osler Dr, Hamilton ON L9H 4H4",43.257342,-79.941313,152.0,College and University
+534,Osler at Grant,M&M Food Market,"101 Osler Dr, Dundas ON L9H 4H4",43.259143,-79.943336,74.0,Grocery Store
+535,Osler at Grant,EB Games,"101B Osler Dr, Dundas ON L9H 4H4",43.258649,-79.943205,88.0,Video Games Store
+536,Osler at Grant,Friendly Stranger Dundas,"101 Osler Dr, Dundas ON L9H 4H6",43.258797,-79.943463,105.0,Cannabis Store
+537,Osler at Grant,Subway,"119 Osler Dr, Dundas ON L9H 6X4",43.259199,-79.941904,206.0,Deli
+538,Osler at Grant,Rotsaert Peter Denturist,"101 Osler Dr, Dundas ON L9H 4H4",43.259765,-79.943038,132.0,Dentist
+539,Osler at Grant,Shoppers Drug Mart,"101 Osler Dr, Dundas ON L9H 4H4",43.257088,-79.942429,279.0,Drugstore
+540,270 Sherman,The Hold Self Storage,"274 Sherman Ave N, Hamilton ON L8L 6N6",43.260718,-79.833845,66.0,Storage Facility
+541,270 Sherman,Led Solutions Manufacturing Inc,"170 Princess St, Hamilton ON L8L 3L3",43.258109,-79.832849,289.0,Electrician
+542,270 Sherman,Oblender Insulation Inc,"58 Earl St, Hamilton ON L8L 6L2",43.258483,-79.836853,302.0,Construction Supplies Store
+543,270 Sherman,Tim Hortons,"418 Sherman Ave N (Sherman st), Hamilton ON L8L 6P1",43.26481,-79.832262,530.0,"Cafe, Coffee, and Tea House"
+544,270 Sherman,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,682.0,Restaurant
+545,270 Sherman,Birch Avenue,"200 Birch Ave, Hamilton ON L8L 2Z7",43.258322,-79.83882,392.0,Child Care Service
+546,270 Sherman,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,697.0,"Cafe, Coffee, and Tea House"
+547,270 Sherman,Starpolskie,"711 Barton St E, Hamilton ON L8L 3A7",43.255985,-79.834121,474.0,Deli
+548,270 Sherman,Two Cougars & a Cafe,"601 Burlington St E, Hamilton ON L8L 4J5",43.267279,-79.837269,803.0,Diner
+549,270 Sherman,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,631.0,Burger Joint
+550,Sanders at Binkley,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,269.0,Brewery
+551,Sanders at Binkley,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,410.0,Brewery
+552,Sanders at Binkley,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,387.0,Retail
+553,Sanders at Binkley,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,839.0,Pub
+554,Sanders at Binkley,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,859.0,Coffee Shop
+555,Sanders at Binkley,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,891.0,Burger Joint
+556,Sanders at Binkley,East Side Mario's Dundas,"119 Osler Dr, Dundas ON L9H 6X4",43.258387,-79.941538,948.0,Restaurant
+557,Sanders at Binkley,West End Diner,"1811 Main St W, Hamilton ON L8S 1H6",43.252802,-79.938544,961.0,Diner
+558,Sanders at Binkley,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,899.0,Deli
+559,Sanders at Binkley,University Plaza,"101 Osler Dr, Hamilton ON L9H 4H4",43.257342,-79.941313,1020.0,College and University
+560,Whitney at Lower Horning,Right Wingers,"1850 Main St W, Hamilton ON L8S 4P7",43.252188,-79.939969,358.0,Pizzeria
+561,Whitney at Lower Horning,West End Diner,"1811 Main St W, Hamilton ON L8S 1H6",43.252802,-79.938544,295.0,Diner
+562,Whitney at Lower Horning,Food 4 Kids,"407 Whitney Ave, Hamilton ON L8S 2H6",43.251398,-79.937701,163.0,Public and Social Service
+563,Whitney at Lower Horning,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,488.0,Brewery
+564,Whitney at Lower Horning,Chon-Ji Martial Arts,"405 Whitney Ave, Hamilton ON L8S 2H6",43.251406,-79.937656,201.0,Martial Arts Dojo
+565,Whitney at Lower Horning,Mennonite Church,"143 Lower Horning Rd (Purvis Dr.), Hamilton ON L8S 3G8",43.249661,-79.934124,286.0,Church
+566,Whitney at Lower Horning,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,622.0,Brewery
+567,Whitney at Lower Horning,Booster Juice,"1685 Main St W, Hamilton ON L8S 1G5",43.256602,-79.934278,536.0,Juice Bar
+568,Whitney at Lower Horning,Ontario Fire Preventions,"1868 Main St W, Hamilton ON L8S 1J1",43.251836,-79.940187,371.0,Fire Station
+569,Whitney at Lower Horning,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,656.0,Retail
+570,James North at Mulberry,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,25.0,Café
+571,James North at Mulberry,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,100.0,Bar
+572,James North at Mulberry,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,117.0,BBQ Joint
+573,James North at Mulberry,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,156.0,Arts and Entertainment
+574,James North at Mulberry,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,279.0,Bar
+575,James North at Mulberry,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,331.0,Coffee Shop
+576,James North at Mulberry,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,390.0,Farmers Market
+577,James North at Mulberry,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,370.0,Arts and Entertainment
+578,James North at Mulberry,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,509.0,Taco Restaurant
+579,James North at Mulberry,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,523.0,Indian Restaurant
+580,Frid at Main,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,177.0,Rock Climbing Spot
+581,Frid at Main,Tim Hortons,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.26054,-79.889922,250.0,"Cafe, Coffee, and Tea House"
+582,Frid at Main,Mr Dumpling Express,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.261466,-79.889523,295.0,Chinese Restaurant
+583,Frid at Main,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,474.0,Retail
+584,Frid at Main,Subway,"50 Dundurn St S (at Main St W), Hamilton ON L8P 4W3",43.260833,-79.88974,305.0,Deli
+585,Frid at Main,Tim Hortons,"443 Main St W, Hamilton ON L8P 1K5",43.259326,-79.887537,408.0,"Cafe, Coffee, and Tea House"
+586,Frid at Main,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,638.0,Bakery
+587,Frid at Main,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,548.0,Liquor Store
+588,Frid at Main,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,683.0,Coffee Shop
+589,Frid at Main,Tim Hortons,"620 King St W (Dundurn St), Hamilton ON L8P 1C2",43.262695,-79.887366,539.0,"Cafe, Coffee, and Tea House"
+590,Gore Park,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,134.0,Burrito Restaurant
+591,Gore Park,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,144.0,Taco Restaurant
+592,Gore Park,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,146.0,Indian Restaurant
+593,Gore Park,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,165.0,Burger Joint
+594,Gore Park,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,328.0,Farmers Market
+595,Gore Park,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,286.0,Sushi Restaurant
+596,Gore Park,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,287.0,Bubble Tea Shop
+597,Gore Park,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,353.0,Bar
+598,Gore Park,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,354.0,Museum
+599,Gore Park,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,474.0,Arts and Entertainment
+600,Stinson at West,Stinson Neighbourhood,"Emerald st, Hamilton ON",43.249181,-79.860969,113.0,Other Great Outdoors
+601,Stinson at West,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,471.0,Café
+602,Stinson at West,Universal Retirement Lodge,"46 W Ave S, Hamilton ON L8N 2S1",43.251143,-79.859107,188.0,Retirement Home
+603,Stinson at West,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,501.0,Deli
+604,Stinson at West,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,530.0,Diner
+605,Stinson at West,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,565.0,German Restaurant
+606,Stinson at West,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,681.0,Music Venue
+607,Stinson at West,Sam Lawrence Park,"Concession St, Hamilton ON",43.244494,-79.86608,699.0,Park
+608,Stinson at West,Gameopolis,"223 King St E (at Walnut; East of John St.), Hamilton ON L8N 1B6",43.254537,-79.862487,613.0,Arts and Entertainment
+609,Stinson at West,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,761.0,Sushi Restaurant
+610,King William at Victoria,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,342.0,Café
+611,King William at Victoria,Bella Pizza,"455 Barton St E, Hamilton ON L8L 2Y7",43.259379,-79.846185,95.0,Pizzeria
+612,King William at Victoria,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,401.0,Deli
+613,King William at Victoria,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,470.0,German Restaurant
+614,King William at Victoria,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,502.0,Music Venue
+615,King William at Victoria,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,542.0,Diner
+616,King William at Victoria,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,431.0,Drugstore
+617,King William at Victoria,Gameopolis,"223 King St E (at Walnut; East of John St.), Hamilton ON L8N 1B6",43.254537,-79.862487,545.0,Arts and Entertainment
+618,King William at Victoria,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,445.0,Discount Store
+619,King William at Victoria,Hasty Market,"Wellington St N (Cannon St W), Hamilton ON",43.256772,-79.858264,344.0,Convenience Store
+620,Wentworth at King,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,57.0,Community and Government
+621,Wentworth at King,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,160.0,"Cafe, Coffee, and Tea House"
+622,Wentworth at King,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,247.0,Discount Store
+623,Wentworth at King,Salvation Army Lawson Ministries,"533 Main St E, Hamilton ON L8M 1H9",43.250037,-79.84897,197.0,Charity
+624,Wentworth at King,Jax Bar & Grill,"532 Main St E (Wentworth), Hamilton ON L8M 1J1",43.250037,-79.84897,228.0,Dive Bar
+625,Wentworth at King,Hamilton East Kiwanis Boys' & Girls' Club,"735 King St E, Hamilton ON L8M 1A1",43.251793,-79.846453,246.0,Organization
+626,Wentworth at King,Main Street Health Recovery,"460 Main St E, Hamilton ON L8N 1K4",43.250613,-79.8518,248.0,Physical Therapy Clinic
+627,Wentworth at King,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,546.0,"Cafe, Coffee, and Tea House"
+628,Wentworth at King,Naturopathic Doctor Justin Gallant,"59 Dunsmure Rd, Hamilton ON L8M 1S1",43.249723,-79.839365,492.0,Doctor's Office
+629,Wentworth at King,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,904.0,Café
+630,Cannon at Wentworth - 96,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,276.0,"Cafe, Coffee, and Tea House"
+631,Cannon at Wentworth - 96,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,495.0,Restaurant
+632,Cannon at Wentworth - 96,Galley Pump,"365 Wentworth St N, Hamilton ON L8L 5W4",43.262919,-79.84451,409.0,Pub
+633,Cannon at Wentworth - 96,Hamilton East Kiwanis Boys' & Girls' Club,"735 King St E, Hamilton ON L8M 1A1",43.251793,-79.846453,415.0,Organization
+634,Cannon at Wentworth - 96,Rumors Safety Zone,"388 Barton St E (St. Matthews), Hamilton ON L8L 2Y3",43.259831,-79.848817,434.0,Clothing Store
+635,Cannon at Wentworth - 96,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,447.0,Community and Government
+636,Cannon at Wentworth - 96,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,515.0,Fast Food Restaurant
+637,Cannon at Wentworth - 96,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,465.0,Drugstore
+638,Cannon at Wentworth - 96,Sewing by Kim,"563 Barton St E (Milton Ave), Hamilton ON L8L 2Z2",43.258127,-79.842229,484.0,Fashion Accessories Store
+639,Cannon at Wentworth - 96,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,635.0,Discount Store
+640,Haymarket at Hughson,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,103.0,Pub
+641,Haymarket at Hughson,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,122.0,Pub
+642,Haymarket at Hughson,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,252.0,American Restaurant
+643,Haymarket at Hughson,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,303.0,Sushi Restaurant
+644,Haymarket at Hughson,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,340.0,Museum
+645,Haymarket at Hughson,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,357.0,Café
+646,Haymarket at Hughson,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,345.0,Ethiopian Restaurant
+647,Haymarket at Hughson,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,408.0,Burrito Restaurant
+648,Haymarket at Hughson,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,331.0,Bubble Tea Shop
+649,Haymarket at Hughson,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,544.0,Indian Restaurant
+650,Bay at Macaulay,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,111.0,Sports and Recreation
+651,Bay at Macaulay,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,327.0,Restaurant
+652,Bay at Macaulay,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,397.0,Diner
+653,Bay at Macaulay,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,461.0,Park
+654,Bay at Macaulay,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,657.0,Skating Rink
+655,Bay at Macaulay,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,542.0,Fish and Chips Shop
+656,Bay at Macaulay,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,814.0,Arts and Entertainment
+657,Bay at Macaulay,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,858.0,Coffee Shop
+658,Bay at Macaulay,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,992.0,Bakery
+659,Bay at Macaulay,Saltlick Smokehouse,"282 James St N (Barton Street), Hamilton ON L8R 2L3",43.263456,-79.865886,980.0,BBQ Joint
+660,Rifle Range at Rail Trail,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,83.0,Retail
+661,Rifle Range at Rail Trail,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,152.0,Brewery
+662,Rifle Range at Rail Trail,Grain & Grit Beer Co,"11 Ewen Rd, Hamilton ON L8S 3C3",43.256697,-79.931604,198.0,Brewery
+663,Rifle Range at Rail Trail,Joya Restaurant,"1630 Main St W, Hamilton ON L8S 1G3",43.257727,-79.931316,266.0,Sushi Restaurant
+664,Rifle Range at Rail Trail,Boston Pizza,"1563 Main St W (Cottrill St.), Hamilton ON L8S 1E6",43.257231,-79.927615,262.0,Pizzeria
+665,Rifle Range at Rail Trail,Booster Juice,"1685 Main St W, Hamilton ON L8S 1G5",43.256602,-79.934278,391.0,Juice Bar
+666,Rifle Range at Rail Trail,Tally Ho Restaurants,"1536 Main St W, Hamilton ON L8S 1E4",43.257728,-79.924083,517.0,Chinese Restaurant
+667,Rifle Range at Rail Trail,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,568.0,Diner
+668,Rifle Range at Rail Trail,West End Restaurant,"151 Emerson St, Hamilton ON L8S 2Y1",43.253115,-79.921535,710.0,Diner
+669,Rifle Range at Rail Trail,Right Wingers,"1850 Main St W, Hamilton ON L8S 4P7",43.252188,-79.939969,882.0,Pizzeria
+670,Hill Street Park,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,233.0,Coffee Shop
+671,Hill Street Park,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,464.0,Bakery
+672,Hill Street Park,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,607.0,Bakery
+673,Hill Street Park,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,734.0,American Restaurant
+674,Hill Street Park,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,838.0,Lebanese Restaurant
+675,Hill Street Park,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,865.0,Coffee Shop
+676,Hill Street Park,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,938.0,Retail
+677,Hill Street Park,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,870.0,Bar
+678,Hill Street Park,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,954.0,Café
+679,Hill Street Park,Pizza Pizza,"815 Main St W, Hamilton ON L8S 1A2",43.259202,-79.89999,1001.0,Pizzeria
+680,Seedworks,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,333.0,Arts and Entertainment
+681,Seedworks,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,351.0,Bar
+682,Seedworks,Mattina Pizzeria,"104 Cannon St E (Mary), Hamilton ON L8L 2A3",43.259547,-79.862906,74.0,Pizzeria
+683,Seedworks,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,348.0,Burger Joint
+684,Seedworks,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,371.0,Taco Restaurant
+685,Seedworks,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,346.0,Bar
+686,Seedworks,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,367.0,Indian Restaurant
+687,Seedworks,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,401.0,Café
+688,Seedworks,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,433.0,Music Venue
+689,Seedworks,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,463.0,Burrito Restaurant
+690,Gage Park,Gage Park Manor,"222 Gage Ave S (At Main St.), Hamilton ON L8M 3M4",43.241353,-79.831836,160.0,Real Estate Agency
+691,Gage Park,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,396.0,"Cafe, Coffee, and Tea House"
+692,Gage Park,Roxy's Hair Salon For All,"187 Prospect St S (Prospect & Maplewood), Hamilton ON L8M 2Z5",43.244591,-79.834097,297.0,Hair Salon
+693,Gage Park,Christon Motors,"1121 King St E (Balsam Ave. N), Hamilton ON L8M 1E5",43.249011,-79.829695,318.0,Used Car Dealership
+694,Gage Park,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,525.0,Pizzeria
+695,Gage Park,Pizza Pizza,"1296 King St E, Hamilton ON L8M 1G8",43.243909,-79.824758,452.0,Pizzeria
+696,Gage Park,McDonald's,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",43.244575,-79.825565,412.0,Burger Joint
+697,Gage Park,Dollarama,"1124 Main St E, Hamilton ON L8M 1N9",43.24296,-79.822559,629.0,Discount Store
+698,Gage Park,Buddys Roadhouse,"1360 King St E, Hamilton ON L8M 1H5",43.240965,-79.822316,718.0,Restaurant
+699,Gage Park,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,870.0,Drugstore
+700,Delaware at Myrtle,Jax Bar & Grill,"532 Main St E (Wentworth), Hamilton ON L8M 1J1",43.250037,-79.84897,211.0,Dive Bar
+701,Delaware at Myrtle,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,288.0,"Cafe, Coffee, and Tea House"
+702,Delaware at Myrtle,Salvation Army Lawson Ministries,"533 Main St E, Hamilton ON L8M 1H9",43.250037,-79.84897,249.0,Charity
+703,Delaware at Myrtle,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,410.0,Discount Store
+704,Delaware at Myrtle,Main Street Health Recovery,"460 Main St E, Hamilton ON L8N 1K4",43.250613,-79.8518,313.0,Physical Therapy Clinic
+705,Delaware at Myrtle,Wentworth Steps,Hamilton ON,43.243185,-79.8524,602.0,Hiking Trail
+706,Delaware at Myrtle,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,469.0,Community and Government
+707,Delaware at Myrtle,Caribbean Canadian Fast Food,"568 Concession St, Hamilton ON L8V 1B1",43.240912,-79.851774,807.0,Caribbean Restaurant
+708,Delaware at Myrtle,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,816.0,Drugstore
+709,Delaware at Myrtle,Naturopathic Doctor Justin Gallant,"59 Dunsmure Rd, Hamilton ON L8M 1S1",43.249723,-79.839365,529.0,Doctor's Office
+710,Maplewood at Springer,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,260.0,"Cafe, Coffee, and Tea House"
+711,Maplewood at Springer,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,341.0,Drugstore
+712,Maplewood at Springer,Roxy's Hair Salon For All,"187 Prospect St S (Prospect & Maplewood), Hamilton ON L8M 2Z5",43.244591,-79.834097,274.0,Hair Salon
+713,Maplewood at Springer,Beautiful Bathrooms & Kitchens,"318 Cumberland Ave, Hamilton ON L8M 2A1",43.242726,-79.838555,293.0,Bathroom Contractor
+714,Maplewood at Springer,Gage Park Manor,"222 Gage Ave S (At Main St.), Hamilton ON L8M 3M4",43.241353,-79.831836,690.0,Real Estate Agency
+715,Maplewood at Springer,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,693.0,Café
+716,Maplewood at Springer,Christon Motors,"1121 King St E (Balsam Ave. N), Hamilton ON L8M 1E5",43.249011,-79.829695,400.0,Used Car Dealership
+717,Maplewood at Springer,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,752.0,Pizzeria
+718,Maplewood at Springer,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,946.0,"Cafe, Coffee, and Tea House"
+719,Maplewood at Springer,Sealed Art,"89 Gage Ave S, Hamilton ON L8M 3C8",43.24523,-79.829812,587.0,Framing Store
+720,Cannon at Birch (Powell Park),Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,237.0,"Cafe, Coffee, and Tea House"
+721,Cannon at Birch (Powell Park),541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,363.0,Restaurant
+722,Cannon at Birch (Powell Park),Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,626.0,Café
+723,Cannon at Birch (Powell Park),Galley Pump,"365 Wentworth St N, Hamilton ON L8L 5W4",43.262919,-79.84451,375.0,Pub
+724,Cannon at Birch (Powell Park),Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,831.0,Drugstore
+725,Cannon at Birch (Powell Park),Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,951.0,"Cafe, Coffee, and Tea House"
+726,Cannon at Birch (Powell Park),Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,935.0,"Cafe, Coffee, and Tea House"
+727,Cannon at Birch (Powell Park),Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,843.0,"Cafe, Coffee, and Tea House"
+728,Cannon at Birch (Powell Park),Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,962.0,Discount Store
+729,Cannon at Birch (Powell Park),McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,860.0,Burger Joint
+730,Cannon at Sherman,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,283.0,Café
+731,Cannon at Sherman,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,603.0,"Cafe, Coffee, and Tea House"
+732,Cannon at Sherman,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,661.0,Restaurant
+733,Cannon at Sherman,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,657.0,"Cafe, Coffee, and Tea House"
+734,Cannon at Sherman,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,654.0,Drugstore
+735,Cannon at Sherman,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,584.0,"Cafe, Coffee, and Tea House"
+736,Cannon at Sherman,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,597.0,Burger Joint
+737,Cannon at Sherman,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,883.0,"Cafe, Coffee, and Tea House"
+738,Cannon at Sherman,Subway,"847 Barton St E, Hamilton ON L8L 3B4",43.254767,-79.828299,744.0,Deli
+739,Cannon at Sherman,KFC,"Barton St, Hamilton ON L8L 6Y5",43.253767,-79.828036,790.0,Fast Food Restaurant
+740,York at Macnab,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,56.0,Farmers Market
+741,York at Macnab,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,117.0,Bar
+742,York at Macnab,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,223.0,Arts and Entertainment
+743,York at Macnab,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,240.0,Taco Restaurant
+744,York at Macnab,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,262.0,Indian Restaurant
+745,York at Macnab,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,273.0,Bar
+746,York at Macnab,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,274.0,Burger Joint
+747,York at Macnab,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,348.0,Café
+748,York at Macnab,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,294.0,Deli
+749,York at Macnab,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,390.0,Burrito Restaurant
+750,McMaster Stadium,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,273.0,Pub
+751,McMaster Stadium,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,136.0,Coffee Shop
+752,McMaster Stadium,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,294.0,Coffee Shop
+753,McMaster Stadium,Travel Cuts,"Musc 109C, Hamilton ON L8S 4S4",43.26342,-79.917772,156.0,N/A
+754,McMaster Stadium,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,224.0,Art Museum
+755,McMaster Stadium,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,293.0,Drugstore
+756,McMaster Stadium,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,294.0,Salad Restaurant
+757,McMaster Stadium,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,357.0,Bookstore
+758,McMaster Stadium,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,756.0,Burger Joint
+759,McMaster Stadium,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,805.0,Coffee Shop
+760,Barton and Belview - ERI05,Tim Hortons,"954 Barton St E, Hamilton ON L8L 3C5",43.252955,-79.822194,24.0,Restaurant
+761,Barton and Belview - ERI05,The Purple Pear,"946 Barton St E, Hamilton ON L8L 3C5",43.253198,-79.823214,91.0,Diner
+762,Barton and Belview - ERI05,Hamilton Indoor Go Karts,"193 Cavell Ave, Hamilton ON L8L 8C9",43.254162,-79.823793,196.0,Amusement Park
+763,Barton and Belview - ERI05,Hambrgr,"207 Ottawa St N, Hamilton ON L8H 3Z4",43.248248,-79.817435,630.0,Bar
+764,Barton and Belview - ERI05,Dollarama,"869 Barton St E, Hamilton ON L8L 3B4",43.254807,-79.827054,422.0,Discount Store
+765,Barton and Belview - ERI05,St Anthony's Hall,"830 Barton St E, Hamilton ON L8L 7Z5",43.254476,-79.829178,302.0,Auditorium
+766,Barton and Belview - ERI05,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,691.0,Café
+767,Barton and Belview - ERI05,Cafe Limoncello,"226 Ottawa St N, Hamilton ON L8H 3Z6",43.248751,-79.817042,614.0,Italian Restaurant
+768,Barton and Belview - ERI05,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,661.0,"Cafe, Coffee, and Tea House"
+769,Barton and Belview - ERI05,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,660.0,"Cafe, Coffee, and Tea House"
+770,Barton at Ottawa - ERI06,Lcbo,"Centre Mall (1165 Barton St. E.), Hamilton ON L8H 2V2",43.251731,-79.813185,232.0,Liquor Store
+771,Barton at Ottawa - ERI06,Hambrgr,"207 Ottawa St N, Hamilton ON L8H 3Z4",43.248248,-79.817435,370.0,Bar
+772,Barton at Ottawa - ERI06,Cafe Limoncello,"226 Ottawa St N, Hamilton ON L8H 3Z6",43.248751,-79.817042,304.0,Italian Restaurant
+773,Barton at Ottawa - ERI06,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,452.0,Café
+774,Barton at Ottawa - ERI06,Marshalls,"1161 Barton St E (Ottawa St. N.), Hamilton ON L8H 2V4",43.253109,-79.81198,346.0,Department Store
+775,Barton at Ottawa - ERI06,Boston Pizza,"1219 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",43.25066,-79.810363,475.0,Pizzeria
+776,Barton at Ottawa - ERI06,Michaels,"1267 Barton St E (Kenilworth Ave. N.), Hamilton ON L8H 2V4",43.250355,-79.81068,571.0,Arts and Crafts Store
+777,Barton at Ottawa - ERI06,Canadian Tire,"1283 Barton St E (Kenilworth at Vansitmart), Hamilton ON L8H 2V4",43.251662,-79.806776,747.0,Department Store
+778,Barton at Ottawa - ERI06,Tim Hortons,"1317 Barton St E (Kenilworth), Hamilton ON L8H 2V4",43.250416,-79.806243,810.0,"Cafe, Coffee, and Tea House"
+779,Barton at Ottawa - ERI06,RBC Royal Bank,"Barton St, Hamilton ON",43.250292,-79.806407,766.0,N/A
+780,King at Mary,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,212.0,Music Venue
+781,King at Mary,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,180.0,Sushi Restaurant
+782,King at Mary,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,234.0,Burrito Restaurant
+783,King at Mary,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,315.0,Indian Restaurant
+784,King at Mary,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,337.0,Taco Restaurant
+785,King at Mary,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,388.0,Café
+786,King at Mary,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,549.0,Bar
+787,King at Mary,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,574.0,Pub
+788,King at Mary,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,624.0,Farmers Market
+789,King at Mary,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,631.0,Arts and Entertainment
+790,Cumberland at Blake ,Beautiful Bathrooms & Kitchens,"318 Cumberland Ave, Hamilton ON L8M 2A1",43.242726,-79.838555,178.0,Bathroom Contractor
+791,Cumberland at Blake ,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,491.0,Drugstore
+792,Cumberland at Blake ,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,596.0,"Cafe, Coffee, and Tea House"
+793,Cumberland at Blake ,La Luna on the Mountain Restaurant,"650 Concession St, Hamilton ON L8V 1B8",43.239778,-79.847979,731.0,Diner
+794,Cumberland at Blake ,Gage Park Manor,"222 Gage Ave S (At Main St.), Hamilton ON L8M 3M4",43.241353,-79.831836,890.0,Real Estate Agency
+795,Cumberland at Blake ,Roxy's Hair Salon For All,"187 Prospect St S (Prospect & Maplewood), Hamilton ON L8M 2Z5",43.244591,-79.834097,549.0,Hair Salon
+796,Cumberland at Blake ,Caribbean Canadian Fast Food,"568 Concession St, Hamilton ON L8V 1B1",43.240912,-79.851774,911.0,Caribbean Restaurant
+797,Cumberland at Blake ,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,972.0,Café
+798,Cumberland at Blake ,Wentworth Steps,Hamilton ON,43.243185,-79.8524,967.0,Hiking Trail
+799,Cumberland at Blake ,Mountain Brow Park,,43.238244,-79.836643,663.0,Park
+800,Main at Eastbourne,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,213.0,Drugstore
+801,Main at Eastbourne,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,631.0,Café
+802,Main at Eastbourne,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,695.0,"Cafe, Coffee, and Tea House"
+803,Main at Eastbourne,Hamilton East Kiwanis Boys' & Girls' Club,"735 King St E, Hamilton ON L8M 1A1",43.251793,-79.846453,573.0,Organization
+804,Main at Eastbourne,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,685.0,"Cafe, Coffee, and Tea House"
+805,Main at Eastbourne,Lakeside Insurance & Financial,"957 King St E, Hamilton ON L8M 1C3",43.251249,-79.835986,595.0,Insurance Agency
+806,Main at Eastbourne,Salvation Army Lawson Ministries,"533 Main St E, Hamilton ON L8M 1H9",43.250037,-79.84897,597.0,Charity
+807,Main at Eastbourne,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,821.0,"Cafe, Coffee, and Tea House"
+808,Main at Eastbourne,Jax Bar & Grill,"532 Main St E (Wentworth), Hamilton ON L8M 1J1",43.250037,-79.84897,617.0,Dive Bar
+809,Main at Eastbourne,Stipley Neighbourhood,"King St E (at Barnesdale), Hamilton ON L8L 2L7",43.251213,-79.83539,648.0,Other Great Outdoors
+810,Stinson at Blythe,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,439.0,Discount Store
+811,Stinson at Blythe,Wentworth Steps,Hamilton ON,43.243185,-79.8524,591.0,Hiking Trail
+812,Stinson at Blythe,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,749.0,Café
+813,Stinson at Blythe,Main Street Health Recovery,"460 Main St E, Hamilton ON L8N 1K4",43.250613,-79.8518,407.0,Physical Therapy Clinic
+814,Stinson at Blythe,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,519.0,"Cafe, Coffee, and Tea House"
+815,Stinson at Blythe,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,802.0,Deli
+816,Stinson at Blythe,Subway,"447 Concession St, Hamilton ON L9A 1C1",43.242248,-79.855858,638.0,Deli
+817,Stinson at Blythe,Universal Retirement Lodge,"46 W Ave S, Hamilton ON L8N 2S1",43.251143,-79.859107,469.0,Retirement Home
+818,Stinson at Blythe,Stinson Neighbourhood,"Emerald st, Hamilton ON",43.249181,-79.860969,505.0,Other Great Outdoors
+819,Stinson at Blythe,Tim Hortons,"473 Concession St (at E 19 St.), Hamilton ON L9A 1C1",43.242055,-79.855454,653.0,"Cafe, Coffee, and Tea House"
+820,Wentworth Stairs,Wentworth Steps,Hamilton ON,43.243185,-79.8524,207.0,Hiking Trail
+821,Wentworth Stairs,Caribbean Canadian Fast Food,"568 Concession St, Hamilton ON L8V 1B1",43.240912,-79.851774,445.0,Caribbean Restaurant
+822,Wentworth Stairs,Subway,"447 Concession St, Hamilton ON L9A 1C1",43.242248,-79.855858,432.0,Deli
+823,Wentworth Stairs,Tim Hortons,"473 Concession St (at E 19 St.), Hamilton ON L9A 1C1",43.242055,-79.855454,424.0,"Cafe, Coffee, and Tea House"
+824,Wentworth Stairs,La Luna on the Mountain Restaurant,"650 Concession St, Hamilton ON L8V 1B8",43.239778,-79.847979,641.0,Diner
+825,Wentworth Stairs,Shoppers Drug Mart,"510 Concession St, Hamilton ON L9A 1C4",43.241221,-79.854665,463.0,Drugstore
+826,Wentworth Stairs,Stone Roads,"533 Concession St, Hamilton ON L8V 1A7",43.240837,-79.851454,448.0,Restaurant
+827,Wentworth Stairs,Battell Denture Clinic,"409 Concession St, Hamilton ON L9A 1B8",43.242428,-79.857883,563.0,Dentist
+828,Wentworth Stairs,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,710.0,Discount Store
+829,Wentworth Stairs,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,661.0,"Cafe, Coffee, and Tea House"
+830,Ferguson at King William,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,40.0,Music Venue
+831,Ferguson at King William,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,197.0,Café
+832,Ferguson at King William,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,403.0,Sushi Restaurant
+833,Ferguson at King William,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,467.0,Burrito Restaurant
+834,Ferguson at King William,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,516.0,Indian Restaurant
+835,Ferguson at King William,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,537.0,Taco Restaurant
+836,Ferguson at King William,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,703.0,Bar
+837,Ferguson at King William,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,754.0,Arts and Entertainment
+838,Ferguson at King William,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,790.0,Bar
+839,Ferguson at King William,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,776.0,Pub
+840,Ferguson at Cannon,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,399.0,Music Venue
+841,Ferguson at Cannon,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,241.0,Drugstore
+842,Ferguson at Cannon,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,505.0,German Restaurant
+843,Ferguson at Cannon,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,557.0,Café
+844,Ferguson at Cannon,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,337.0,Beer Store
+845,Ferguson at Cannon,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,539.0,Deli
+846,Ferguson at Cannon,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,396.0,"Cafe, Coffee, and Tea House"
+847,Ferguson at Cannon,Hasty Market,"Wellington St N (Cannon St W), Hamilton ON",43.256772,-79.858264,260.0,Convenience Store
+848,Ferguson at Cannon,Mattina Pizzeria,"104 Cannon St E (Mary), Hamilton ON L8L 2A3",43.259547,-79.862906,263.0,Pizzeria
+849,Ferguson at Cannon,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,605.0,Burger Joint
+850,Victoria at Barton,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,330.0,"Cafe, Coffee, and Tea House"
+851,Victoria at Barton,Diamantinos Pizza,"341 Barton St E, Hamilton ON L8L 2X6",43.260469,-79.851051,208.0,Pizzeria
+852,Victoria at Barton,A&W Restaurant,"190 Barton St E, Hamilton ON L8L 2W8",43.262054,-79.857951,383.0,American Restaurant
+853,Victoria at Barton,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,477.0,Drugstore
+854,Victoria at Barton,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,400.0,Fast Food Restaurant
+855,Victoria at Barton,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,705.0,Bakery
+856,Victoria at Barton,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,494.0,Beer Store
+857,Victoria at Barton,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,373.0,Drugstore
+858,Victoria at Barton,Kenesky Sports & Cycle Co Ltd,"228 Barton St E, Hamilton ON L8L 2W8",43.261208,-79.85586,397.0,Bicycle Store
+859,Victoria at Barton,Karma Candy,"356 Emerald St N (Shaw St), Hamilton ON L8L 8K6",43.263459,-79.849327,408.0,Candy Store
+860,Mars at Wentworth - ERI01,John Kenyon Ltd,"54 Munroe St, Hamilton ON L8L 3V7",43.264263,-79.841583,194.0,General Contractor
+861,Mars at Wentworth - ERI01,Hammond Metal Systems,"30 Macallum St, Hamilton ON L8L 4E8",43.267478,-79.843424,255.0,Metals Supplier
+862,Mars at Wentworth - ERI01,Two Cougars & a Cafe,"601 Burlington St E, Hamilton ON L8L 4J5",43.267279,-79.837269,550.0,Diner
+863,Mars at Wentworth - ERI01,Keith Park,"90 Burton St (Douglas Ave), Hamilton ON",43.263777,-79.847901,367.0,Playground
+864,Mars at Wentworth - ERI01,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,797.0,Restaurant
+865,Mars at Wentworth - ERI01,Karma Candy,"356 Emerald St N (Shaw St), Hamilton ON L8L 8K6",43.263459,-79.849327,497.0,Candy Store
+866,Mars at Wentworth - ERI01,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,937.0,Brewery
+867,Mars at Wentworth - ERI01,Dynacare Laboratory and Health Services Centre,"414 Victoria Ave N, Hamilton ON L8L 5G8",43.265715,-79.851229,567.0,Medical Lab
+868,Mars at Wentworth - ERI01,Fastenal Co,"601 Burlington St E, Hamilton ON L8L 4J5",43.267197,-79.836884,598.0,Industrial Equipment Supplier
+869,Mars at Wentworth - ERI01,Birch Avenue,"200 Birch Ave, Hamilton ON L8L 2Z7",43.258322,-79.83882,599.0,Child Care Service
+870,Sherman at Barton - ERI02,Starpolskie,"711 Barton St E, Hamilton ON L8L 3A7",43.255985,-79.834121,169.0,Deli
+871,Sherman at Barton - ERI02,Oblender Insulation Inc,"58 Earl St, Hamilton ON L8L 6L2",43.258483,-79.836853,236.0,Construction Supplies Store
+872,Sherman at Barton - ERI02,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,527.0,Restaurant
+873,Sherman at Barton - ERI02,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,546.0,"Cafe, Coffee, and Tea House"
+874,Sherman at Barton - ERI02,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,563.0,Café
+875,Sherman at Barton - ERI02,Led Solutions Manufacturing Inc,"170 Princess St, Hamilton ON L8L 3L3",43.258109,-79.832849,356.0,Electrician
+876,Sherman at Barton - ERI02,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,679.0,"Cafe, Coffee, and Tea House"
+877,Sherman at Barton - ERI02,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,465.0,Burger Joint
+878,Sherman at Barton - ERI02,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,648.0,"Cafe, Coffee, and Tea House"
+879,Sherman at Barton - ERI02,Sewing by Kim,"563 Barton St E (Milton Ave), Hamilton ON L8L 2Z2",43.258127,-79.842229,496.0,Fashion Accessories Store
+880,Barton at Lottridge - ERI03,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,139.0,"Cafe, Coffee, and Tea House"
+881,Barton at Lottridge - ERI03,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,65.0,Burger Joint
+882,Barton at Lottridge - ERI03,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,370.0,"Cafe, Coffee, and Tea House"
+883,Barton at Lottridge - ERI03,Subway,"847 Barton St E, Hamilton ON L8L 3B4",43.254767,-79.828299,247.0,Deli
+884,Barton at Lottridge - ERI03,Starpolskie,"711 Barton St E, Hamilton ON L8L 3A7",43.255985,-79.834121,243.0,Deli
+885,Barton at Lottridge - ERI03,Dollarama,"869 Barton St E, Hamilton ON L8L 3B4",43.254807,-79.827054,388.0,Discount Store
+886,Barton at Lottridge - ERI03,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,553.0,Café
+887,Barton at Lottridge - ERI03,KFC,"Barton St, Hamilton ON L8L 6Y5",43.253767,-79.828036,341.0,Fast Food Restaurant
+888,Barton at Lottridge - ERI03,Led Solutions Manufacturing Inc,"170 Princess St, Hamilton ON L8L 3L3",43.258109,-79.832849,333.0,Electrician
+889,Barton at Lottridge - ERI03,Hamilton Indoor Go Karts,"193 Cavell Ave, Hamilton ON L8L 8C9",43.254162,-79.823793,612.0,Amusement Park
+890,Corktown Park,Sam Lawrence Park,"Concession St, Hamilton ON",43.244494,-79.86608,484.0,Park
+891,Corktown Park,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,524.0,Diner
+892,Corktown Park,Stinson Neighbourhood,"Emerald st, Hamilton ON",43.249181,-79.860969,246.0,Other Great Outdoors
+893,Corktown Park,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,599.0,Café
+894,Corktown Park,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,573.0,Pub
+895,Corktown Park,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,588.0,Deli
+896,Corktown Park,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,578.0,Pub
+897,Corktown Park,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,606.0,German Restaurant
+898,Corktown Park,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,597.0,Sushi Restaurant
+899,Corktown Park,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,685.0,American Restaurant
+900,Hunter at Ferguson,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,231.0,Diner
+901,Hunter at Ferguson,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,308.0,Deli
+902,Hunter at Ferguson,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,334.0,Café
+903,Hunter at Ferguson,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,314.0,German Restaurant
+904,Hunter at Ferguson,Gameopolis,"223 King St E (at Walnut; East of John St.), Hamilton ON L8N 1B6",43.254537,-79.862487,318.0,Arts and Entertainment
+905,Hunter at Ferguson,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,421.0,Music Venue
+906,Hunter at Ferguson,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,383.0,Sushi Restaurant
+907,Hunter at Ferguson,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,385.0,Bubble Tea Shop
+908,Hunter at Ferguson,Shoppers Home Health Care,"250 King St E, Hamilton ON L8N 1B7",43.25415,-79.861808,221.0,Drugstore
+909,Hunter at Ferguson,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,550.0,Burrito Restaurant
+910,Athletic Centre Bike Racks,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,195.0,Coffee Shop
+911,Athletic Centre Bike Racks,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,481.0,Pub
+912,Athletic Centre Bike Racks,Travel Cuts,"Musc 109C, Hamilton ON L8S 4S4",43.26342,-79.917772,207.0,N/A
+913,Athletic Centre Bike Racks,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,299.0,Art Museum
+914,Athletic Centre Bike Racks,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,458.0,Coffee Shop
+915,Athletic Centre Bike Racks,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,799.0,Bakery
+916,Athletic Centre Bike Racks,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,435.0,Bookstore
+917,Athletic Centre Bike Racks,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,458.0,Drugstore
+918,Athletic Centre Bike Racks,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,458.0,Salad Restaurant
+919,Athletic Centre Bike Racks,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,866.0,Burger Joint
+920,Main and Wellington,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,102.0,Café
+921,Main and Wellington,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,137.0,Deli
+922,Main and Wellington,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,214.0,German Restaurant
+923,Main and Wellington,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,226.0,Diner
+924,Main and Wellington,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,322.0,Music Venue
+925,Main and Wellington,Gameopolis,"223 King St E (at Walnut; East of John St.), Hamilton ON L8N 1B6",43.254537,-79.862487,281.0,Arts and Entertainment
+926,Main and Wellington,Shoppers Home Health Care,"250 King St E, Hamilton ON L8N 1B7",43.25415,-79.861808,182.0,Drugstore
+927,Main and Wellington,Universal Retirement Lodge,"46 W Ave S, Hamilton ON L8N 2S1",43.251143,-79.859107,206.0,Retirement Home
+928,Main and Wellington,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,533.0,Sushi Restaurant
+929,Main and Wellington,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,520.0,Bubble Tea Shop
+930,McMaster Student Centre,Union Market,"McMaster University, Hamilton ON L8S 4S4",43.263669,-79.917443,107.0,Coffee Shop
+931,McMaster Student Centre,Phoenix Bar & Grill,"1280 Main St W (in The Refectory), Hamilton ON L8S 4L8",43.262878,-79.921158,327.0,Pub
+932,McMaster Student Centre,McMaster Museum of Art,"1280 Main St E, Hamilton ON L8K 1A9",43.262663,-79.918153,78.0,Art Museum
+933,McMaster Student Centre,Travel Cuts,"Musc 109C, Hamilton ON L8S 4S4",43.26342,-79.917772,86.0,N/A
+934,McMaster Student Centre,Starbucks,"1280 Main St W, Hamilton ON L8S 4L8",43.262103,-79.92033,259.0,Coffee Shop
+935,McMaster Student Centre,R.E.A.D. on Bookstore,"1280 Main St E (Divinity College), Hamilton ON L8K 1A9",43.261354,-79.91844,191.0,Bookstore
+936,McMaster Student Centre,Pharmasave,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,259.0,Drugstore
+937,McMaster Student Centre,The Chopped Leaf,"1280 Main St W, Hamilton ON L8S 4L8",43.262331,-79.920276,260.0,Salad Restaurant
+938,McMaster Student Centre,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,564.0,Burger Joint
+939,McMaster Student Centre,Corner Cafe,"1280 Main St E (Emmerson), Hamilton ON L8K 1A9",43.259475,-79.917425,351.0,Café
+940,George Street,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,104.0,Lebanese Restaurant
+941,George Street,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,71.0,Arts and Entertainment
+942,George Street,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,113.0,Coffee Shop
+943,George Street,Hess Village,Hamilton ON,43.258433,-79.87756,114.0,Neighborhood
+944,George Street,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,101.0,Bar
+945,George Street,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,144.0,Fried Chicken Joint
+946,George Street,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,139.0,Fried Chicken Joint
+947,George Street,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,429.0,Restaurant
+948,George Street,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,587.0,Coffee Shop
+949,George Street,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,566.0,Deli
+950,Hughson at Picton,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,166.0,Diner
+951,Hughson at Picton,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,171.0,Restaurant
+952,Hughson at Picton,Bennetto Recreation Ctr,"450 Hughson St N, Hamilton ON L8L 4N5",43.270315,-79.861805,56.0,Community and Government
+953,Hughson at Picton,Route 66,"468 James St N, Hamilton ON L8L 1J1",43.268901,-79.863467,197.0,Restaurant
+954,Hughson at Picton,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,556.0,Sports and Recreation
+955,Hughson at Picton,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,647.0,Bakery
+956,Hughson at Picton,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,689.0,Park
+957,Hughson at Picton,Dr. Matos a,"605 James St N, Hamilton ON L8L 1J9",43.273253,-79.862162,334.0,Doctor's Office
+958,Hughson at Picton,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,648.0,Arts and Entertainment
+959,Hughson at Picton,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,728.0,Brewery
+960,Discovery Drive,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,130.0,Skating Rink
+961,Discovery Drive,Scoops Ice Cream Hut,"47 Discovery Dr (Guise St E), Hamilton ON L8L 8B4",43.276028,-79.860266,16.0,Ice Cream Parlor
+962,Discovery Drive,Hamilton Harbour,Hamilton ON,43.27678,-79.860671,80.0,Harbor or Marina
+963,Discovery Drive,Pier 8,Hamilton ON,43.276832,-79.860726,100.0,Park
+964,Discovery Drive,Ontario Sailing Association,"65 Guise St E (Discovery Drive), Hamilton ON L8L 8B4",43.274773,-79.859126,163.0,Non-Profit Organization
+965,Discovery Drive,Brewers Marine Supply,"65 Guise St E, Hamilton ON L8L 8B4",43.27478,-79.859034,205.0,Brewery
+966,Discovery Drive,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,528.0,Restaurant
+967,Discovery Drive,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,636.0,Sports and Recreation
+968,Discovery Drive,Royal Hamilton Yacht Club,"555 Bay St N, Hamilton ON L8L 1H1",43.274209,-79.864272,351.0,Harbor or Marina
+969,Discovery Drive,The Waterfront Banquet & Conference Centre,"555 Bay St N, Hamilton ON L8L 1H1",43.274282,-79.864052,353.0,Event Service
+970,Ainslie at Emerson,West End Restaurant,"151 Emerson St, Hamilton ON L8S 2Y1",43.253115,-79.921535,427.0,Diner
+971,Ainslie at Emerson,Wayne Gretsky Arena,"254 N Park St, Brantford ON N3R 4L1",43.249727,-79.91762,479.0,Stadium
+972,Ainslie at Emerson,Fortinos,"1579 Main St W, Hamilton ON L8S 1E6",43.255351,-79.928778,781.0,Retail
+973,Ainslie at Emerson,Fairweather Brewing Co,"5 Ofield Rd, Hamilton ON L8S 2M4",43.255446,-79.931759,933.0,Brewery
+974,Ainslie at Emerson,Starbucks,"1341 Main St W (at Emerson St), Hamilton ON L8S 1C6",43.25759,-79.919376,934.0,Coffee Shop
+975,Ainslie at Emerson,Pinks Burgers,"1335 Main St W, Hamilton ON L8S 1C6",43.257574,-79.918863,993.0,Burger Joint
+976,Ainslie at Emerson,Maple Leaf Pancake House,"1520 Main St W, Hamilton ON L8S 1E3",43.257771,-79.923534,901.0,Diner
+977,Ainslie at Emerson,Cross of Lorraine,"Sanatorium Rd (Scenic Drive), Hamilton ON",43.244937,-79.917361,699.0,Public Art
+978,Ainslie at Emerson,Subway,"1331 Main St W (at Broadway Ave.), Hamilton ON L8S 1C6",43.257574,-79.918863,967.0,Deli
+979,Ainslie at Emerson,Chedoke Radial Recreation Trail,"Scenic Dr (Chateau Ct), Hamilton ON",43.245741,-79.930802,727.0,Other Great Outdoors
+980,Catharine at Young,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,326.0,Pub
+981,Catharine at Young,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,324.0,Pub
+982,Catharine at Young,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,336.0,Café
+983,Catharine at Young,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,335.0,Ethiopian Restaurant
+984,Catharine at Young,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,405.0,American Restaurant
+985,Catharine at Young,Sam Lawrence Park,"Concession St, Hamilton ON",43.244494,-79.86608,532.0,Park
+986,Catharine at Young,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,538.0,Sushi Restaurant
+987,Catharine at Young,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,562.0,Bubble Tea Shop
+988,Catharine at Young,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,629.0,Diner
+989,Catharine at Young,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,622.0,Museum
+990,Main at Macnab,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,179.0,Museum
+991,Main at Macnab,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,348.0,Burrito Restaurant
+992,Main at Macnab,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,359.0,Taco Restaurant
+993,Main at Macnab,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,368.0,Indian Restaurant
+994,Main at Macnab,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,385.0,Farmers Market
+995,Main at Macnab,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,389.0,Burger Joint
+996,Main at Macnab,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,325.0,Restaurant
+997,Main at Macnab,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,452.0,American Restaurant
+998,Main at Macnab,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,434.0,Pub
+999,Main at Macnab,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,444.0,Pub
+1000,Eastwood Arena,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,345.0,Brewery
+1001,Eastwood Arena,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,458.0,Restaurant
+1002,Eastwood Arena,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,597.0,Diner
+1003,Eastwood Arena,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,703.0,Skating Rink
+1004,Eastwood Arena,Brewers Marine Supply,"65 Guise St E, Hamilton ON L8L 8B4",43.27478,-79.859034,373.0,Brewery
+1005,Eastwood Arena,Bennetto Recreation Ctr,"450 Hughson St N, Hamilton ON L8L 4N5",43.270315,-79.861805,375.0,Community and Government
+1006,Eastwood Arena,Ontario Sailing Association,"65 Guise St E (Discovery Drive), Hamilton ON L8L 8B4",43.274773,-79.859126,409.0,Non-Profit Organization
+1007,Eastwood Arena,Dr. Matos a,"605 James St N, Hamilton ON L8L 1J9",43.273253,-79.862162,482.0,Doctor's Office
+1008,Eastwood Arena,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,881.0,Bakery
+1009,Eastwood Arena,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,856.0,Sports and Recreation
+1010,Hunter at Park,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,107.0,Museum
+1011,Hunter at Park,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,305.0,American Restaurant
+1012,Hunter at Park,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,366.0,Pub
+1013,Hunter at Park,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,364.0,Pub
+1014,Hunter at Park,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,532.0,Burrito Restaurant
+1015,Hunter at Park,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,445.0,Restaurant
+1016,Hunter at Park,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,488.0,Café
+1017,Hunter at Park,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,475.0,Ethiopian Restaurant
+1018,Hunter at Park,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,582.0,Taco Restaurant
+1019,Hunter at Park,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,539.0,Café
+1020,Aberdeen at Studholme,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,531.0,American Restaurant
+1021,Aberdeen at Studholme,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,608.0,Bakery
+1022,Aberdeen at Studholme,Chedoke Woodland Trail,,43.250368,-79.900668,283.0,Hiking Trail
+1023,Aberdeen at Studholme,BuckitLife,"175 Longwood Rd S, Hamilton ON L8P 0A1",43.256629,-79.900712,442.0,Arts and Entertainment
+1024,Aberdeen at Studholme,Natural Resources Canada CANMET - MTL,"183 Longwood Rd S, Hamilton ON L8P 0A5",43.25701,-79.901404,492.0,Government Building
+1025,Aberdeen at Studholme,Gravity Climbing Gym Inc,"70 Frid St, Hamilton ON L8P 4M4",43.258168,-79.893832,767.0,Rock Climbing Spot
+1026,Aberdeen at Studholme,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,743.0,Liquor Store
+1027,Aberdeen at Studholme,Webers Hamburgers,"8844 11 Hwy S, Orillia ON L3V 6H3",43.247705,-79.898223,549.0,Burger Joint
+1028,Aberdeen at Studholme,Pizza Pizza,"815 Main St W, Hamilton ON L8S 1A2",43.259202,-79.89999,770.0,Pizzeria
+1029,Aberdeen at Studholme,Lifemark Physiotherapy Main West & Longwood,"875 Main St W, Hamilton ON L8S 4P9",43.258993,-79.901252,718.0,Physical Therapy Clinic
+1030,Ferguson at Barton,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,78.0,"Cafe, Coffee, and Tea House"
+1031,Ferguson at Barton,A&W Restaurant,"190 Barton St E, Hamilton ON L8L 2W8",43.262054,-79.857951,24.0,American Restaurant
+1032,Ferguson at Barton,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,98.0,Beer Store
+1033,Ferguson at Barton,Kenesky Sports & Cycle Co Ltd,"228 Barton St E, Hamilton ON L8L 2W8",43.261208,-79.85586,23.0,Bicycle Store
+1034,Ferguson at Barton,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,333.0,Bakery
+1035,Ferguson at Barton,Food Basics,"135 Barton St E (Mary St), Hamilton ON L8L 8A8",43.264067,-79.859404,236.0,Grocery Store
+1036,Ferguson at Barton,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,468.0,Drugstore
+1037,Ferguson at Barton,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,659.0,BBQ Joint
+1038,Ferguson at Barton,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,651.0,Coffee Shop
+1039,Ferguson at Barton,Mercury Wholesale Foods,"360 James St N, Hamilton ON L8L 1H5",43.265799,-79.864519,360.0,Food Distribution Center
+1040,Ferrie at Furguson,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,484.0,Brewery
+1041,Ferrie at Furguson,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,552.0,Bakery
+1042,Ferrie at Furguson,Victoria Community Physical Rehab,"414 L2 Victoria Ave N, Hamilton ON L8L 5G8",43.265495,-79.851019,333.0,Physical Therapy Clinic
+1043,Ferrie at Furguson,Dynacare Laboratory and Health Services Centre,"414 Victoria Ave N, Hamilton ON L8L 5G8",43.265715,-79.851229,365.0,Medical Lab
+1044,Ferrie at Furguson,Adult Day Centre Caregiver Support V O N,"400 Victoria Ave N, Hamilton ON L8L 5G8",43.264826,-79.850999,373.0,Senior Citizen Service
+1045,Ferrie at Furguson,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,567.0,"Cafe, Coffee, and Tea House"
+1046,Ferrie at Furguson,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,760.0,Diner
+1047,Ferrie at Furguson,Food Basics,"135 Barton St E (Mary St), Hamilton ON L8L 8A8",43.264067,-79.859404,479.0,Grocery Store
+1048,Ferrie at Furguson,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,817.0,Restaurant
+1049,Ferrie at Furguson,A&W Restaurant,"190 Barton St E, Hamilton ON L8L 2W8",43.262054,-79.857951,567.0,American Restaurant
+1050,Belview at Cannon - ERI12,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,485.0,Café
+1051,Belview at Cannon - ERI12,Hambrgr,"207 Ottawa St N, Hamilton ON L8H 3Z4",43.248248,-79.817435,479.0,Bar
+1052,Belview at Cannon - ERI12,St Anthony's Hall,"830 Barton St E, Hamilton ON L8L 7Z5",43.254476,-79.829178,213.0,Auditorium
+1053,Belview at Cannon - ERI12,Cafe Limoncello,"226 Ottawa St N, Hamilton ON L8H 3Z6",43.248751,-79.817042,517.0,Italian Restaurant
+1054,Belview at Cannon - ERI12,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,435.0,Pizzeria
+1055,Belview at Cannon - ERI12,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,654.0,"Cafe, Coffee, and Tea House"
+1056,Belview at Cannon - ERI12,Tim Hortons,"954 Barton St E, Hamilton ON L8L 3C5",43.252955,-79.822194,429.0,Restaurant
+1057,Belview at Cannon - ERI12,Black Sheep Snack Bar,"187 Ottawa St N (Cannon), Hamilton ON L8H 3Z4",43.247669,-79.817669,471.0,Professional Cleaning Service
+1058,Belview at Cannon - ERI12,Hamilton Indoor Go Karts,"193 Cavell Ave, Hamilton ON L8L 8C9",43.254162,-79.823793,565.0,Amusement Park
+1059,Belview at Cannon - ERI12,The Purple Pear,"946 Barton St E, Hamilton ON L8L 3C5",43.253198,-79.823214,474.0,Diner
+1060,Tisdale at Main,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,113.0,Discount Store
+1061,Tisdale at Main,Main Street Health Recovery,"460 Main St E, Hamilton ON L8N 1K4",43.250613,-79.8518,206.0,Physical Therapy Clinic
+1062,Tisdale at Main,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,303.0,"Cafe, Coffee, and Tea House"
+1063,Tisdale at Main,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,597.0,Café
+1064,Tisdale at Main,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,276.0,Community and Government
+1065,Tisdale at Main,Bella Pizza,"455 Barton St E, Hamilton ON L8L 2Y7",43.259379,-79.846185,326.0,Pizzeria
+1066,Tisdale at Main,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,663.0,Deli
+1067,Tisdale at Main,Jax Bar & Grill,"532 Main St E (Wentworth), Hamilton ON L8M 1J1",43.250037,-79.84897,380.0,Dive Bar
+1068,Tisdale at Main,Salvation Army Lawson Ministries,"533 Main St E, Hamilton ON L8M 1H9",43.250037,-79.84897,392.0,Charity
+1069,Tisdale at Main,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,744.0,German Restaurant
+1070,Maple at Rothsay - ERI08,Gage Park Manor,"222 Gage Ave S (At Main St.), Hamilton ON L8M 3M4",43.241353,-79.831836,374.0,Real Estate Agency
+1071,Maple at Rothsay - ERI08,Dollarama,"1124 Main St E, Hamilton ON L8M 1N9",43.24296,-79.822559,210.0,Discount Store
+1072,Maple at Rothsay - ERI08,Buddys Roadhouse,"1360 King St E, Hamilton ON L8M 1H5",43.240965,-79.822316,261.0,Restaurant
+1073,Maple at Rothsay - ERI08,Pizza Pizza,"1296 King St E, Hamilton ON L8M 1G8",43.243909,-79.824758,190.0,Pizzeria
+1074,Maple at Rothsay - ERI08,A l Choppers,"1119 Main St E, Hamilton ON L8M 1N7",43.243484,-79.823018,207.0,Automotive Service
+1075,Maple at Rothsay - ERI08,Tbar Unique Designs,"67 Balmoral Ave S (king street), Hamilton ON L8M 3K1",43.241248,-79.822613,219.0,Jewelry Store
+1076,Maple at Rothsay - ERI08,McDonald's,"1268 King St E (at Main St E), Hamilton ON L8M 1G8",43.244575,-79.825565,265.0,Burger Joint
+1077,Maple at Rothsay - ERI08,Tim Hortons,"65 Ottawa St N (Dunsmure Rd.), Hamilton ON L8H 3Y9",43.24461,-79.819267,548.0,"Cafe, Coffee, and Tea House"
+1078,Maple at Rothsay - ERI08,Delta United Church,"47 Ottawa St S (Maple Ave), Hamilton ON L8K 2C9",43.241058,-79.819643,445.0,Church
+1079,Maple at Rothsay - ERI08,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,844.0,Café
+1080,Queen at George,Scottish Rite,"4 Queen St S, Hamilton ON L8P 3R3",43.259057,-79.879423,105.0,Arts and Entertainment
+1081,Queen at George,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,156.0,Lebanese Restaurant
+1082,Queen at George,Hess Village,Hamilton ON,43.258433,-79.87756,152.0,Neighborhood
+1083,Queen at George,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,168.0,Coffee Shop
+1084,Queen at George,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,136.0,Bar
+1085,Queen at George,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,197.0,Fried Chicken Joint
+1086,Queen at George,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,191.0,Fried Chicken Joint
+1087,Queen at George,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,462.0,Restaurant
+1088,Queen at George,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,539.0,Coffee Shop
+1089,Queen at George,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,612.0,Deli
+1090,Augusta at John,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,101.0,Pub
+1091,Augusta at John,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,109.0,Pub
+1092,Augusta at John,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,233.0,American Restaurant
+1093,Augusta at John,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,294.0,Café
+1094,Augusta at John,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,283.0,Ethiopian Restaurant
+1095,Augusta at John,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,375.0,Sushi Restaurant
+1096,Augusta at John,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,389.0,Museum
+1097,Augusta at John,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,402.0,Bubble Tea Shop
+1098,Augusta at John,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,489.0,Burrito Restaurant
+1099,Augusta at John,Shakespeare's Steak and Seafood,"181 Main St E, Hamilton ON L8N 1H2",43.253516,-79.862387,576.0,Diner
+1100,Ottawa at Dunsmure - ERI07,Tim Hortons,"65 Ottawa St N (Dunsmure Rd.), Hamilton ON L8H 3Y9",43.24461,-79.819267,19.0,"Cafe, Coffee, and Tea House"
+1101,Ottawa at Dunsmure - ERI07,Hammerhead's on Ottawa,"80 Ottawa St N, Hamilton ON L8H 3Z1",43.244747,-79.818843,38.0,Fish and Chips Shop
+1102,Ottawa at Dunsmure - ERI07,Cannon Coffee Co,"179 Ottawa St N (Cannon Street), Hamilton ON L8H 3Z4",43.247597,-79.8177,371.0,Café
+1103,Ottawa at Dunsmure - ERI07,Hambrgr,"207 Ottawa St N, Hamilton ON L8H 3Z4",43.248248,-79.817435,453.0,Bar
+1104,Ottawa at Dunsmure - ERI07,Dollarama,"1124 Main St E, Hamilton ON L8M 1N9",43.24296,-79.822559,321.0,Discount Store
+1105,Ottawa at Dunsmure - ERI07,Cafe Limoncello,"226 Ottawa St N, Hamilton ON L8H 3Z6",43.248751,-79.817042,519.0,Italian Restaurant
+1106,Ottawa at Dunsmure - ERI07,Buddys Roadhouse,"1360 King St E, Hamilton ON L8M 1H5",43.240965,-79.822316,454.0,Restaurant
+1107,Ottawa at Dunsmure - ERI07,Black Sheep Snack Bar,"187 Ottawa St N (Cannon), Hamilton ON L8H 3Z4",43.247669,-79.817669,404.0,Professional Cleaning Service
+1108,Ottawa at Dunsmure - ERI07,A l Choppers,"1119 Main St E, Hamilton ON L8M 1N7",43.243484,-79.823018,331.0,Automotive Service
+1109,Ottawa at Dunsmure - ERI07,Rankin's Bar & Grill,"1342 Main St E, Hamilton ON L8K 1B5",43.240773,-79.812412,694.0,Bar
+1110,Cootes at York and King,Subway,"38 York Rd, Dundas ON L9H 1L4",43.266201,-79.94969,56.0,Deli
+1111,Cootes at York and King,Tim Hortons,"38 York Rd (York St & Cootes Drive), Dundas ON L9H 1L4",43.265884,-79.94945,43.0,"Cafe, Coffee, and Tea House"
+1112,Cootes at York and King,Pizza Pizza,"4 Cootes Dr, Dundas ON L9H 1A9",43.265268,-79.95018,60.0,Pizzeria
+1113,Cootes at York and King,McDonald's,"120 King St W, Hamilton ON L8P 4V2",43.265189,-79.949838,46.0,Burger Joint
+1114,Cootes at York and King,Heirlooms Bridal Shoppe,"19 King St W (at Ogilvie St), Dundas ON L9H 1T5",43.266229,-79.954434,368.0,Bridal Store
+1115,Cootes at York and King,Cumbraes of Dundas,"26 King St W (btw Ogilvie St & Millers Ln), Dundas ON L9H 1T7",43.266269,-79.95528,380.0,Butcher
+1116,Cootes at York and King,Canadian Tire,"50 Cootes Dr, Dundas ON L9H 1B6",43.264984,-79.945911,305.0,Department Store
+1117,Cootes at York and King,Detour Roaster's Cafe,"41B King St W (Miller's Line), Dundas ON L9H 1T5",43.266194,-79.955532,473.0,Café
+1118,Cootes at York and King,Picone's Food Mkt Inc,"34 King St W (Ogilvie St.), Dundas ON L9H 1T7",43.266143,-79.955477,467.0,Grocery Store
+1119,Cootes at York and King,Starbucks,"46 King St W (Miller's Ln), Dundas ON L9H 1T8",43.266364,-79.956024,510.0,Coffee Shop
+1120,James at Vine,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,33.0,Bar
+1121,James at Vine,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,89.0,Arts and Entertainment
+1122,James at Vine,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,145.0,Bar
+1123,James at Vine,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,188.0,Farmers Market
+1124,James at Vine,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,229.0,Café
+1125,James at Vine,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,273.0,Taco Restaurant
+1126,James at Vine,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,289.0,Indian Restaurant
+1127,James at Vine,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,291.0,Burger Joint
+1128,James at Vine,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,363.0,BBQ Joint
+1129,James at Vine,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,433.0,Burrito Restaurant
+1130,Charlton at Locke,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,6.0,Bagel Shop
+1131,Charlton at Locke,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,79.0,Bakery
+1132,Charlton at Locke,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,114.0,Bakery
+1133,Charlton at Locke,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,259.0,Soup Spot
+1134,Charlton at Locke,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,329.0,Coffee Shop
+1135,Charlton at Locke,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,471.0,Bakery
+1136,Charlton at Locke,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,376.0,Liquor Store
+1137,Charlton at Locke,Sundra,"195 Locke St N, Hamilton ON L8R 3B1",43.255237,-79.885731,196.0,Gift Store
+1138,Charlton at Locke,AMO Gelato Caffe,"171 Locke St N, Hamilton ON L8R 3B1",43.255633,-79.885563,278.0,Coffee Shop
+1139,Charlton at Locke,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,591.0,American Restaurant
+1140,Locke at Herkimer,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,33.0,Bakery
+1141,Locke at Herkimer,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,86.0,Bagel Shop
+1142,Locke at Herkimer,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,201.0,Bakery
+1143,Locke at Herkimer,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,457.0,Bakery
+1144,Locke at Herkimer,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,348.0,Soup Spot
+1145,Locke at Herkimer,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,417.0,Coffee Shop
+1146,Locke at Herkimer,Lcbo,"233 Dundurn St S (at Charlton Ave W), Hamilton ON L8P 4K8",43.254599,-79.8912,423.0,Liquor Store
+1147,Locke at Herkimer,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,566.0,American Restaurant
+1148,Locke at Herkimer,Sundra,"195 Locke St N, Hamilton ON L8R 3B1",43.255237,-79.885731,283.0,Gift Store
+1149,Locke at Herkimer,AMO Gelato Caffe,"171 Locke St N, Hamilton ON L8R 3B1",43.255633,-79.885563,364.0,Coffee Shop
+1150,King William at Hughson,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,50.0,Burger Joint
+1151,King William at Hughson,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,69.0,Indian Restaurant
+1152,King William at Hughson,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,90.0,Taco Restaurant
+1153,King William at Hughson,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,132.0,Burrito Restaurant
+1154,King William at Hughson,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,304.0,Bar
+1155,King William at Hughson,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,279.0,Sushi Restaurant
+1156,King William at Hughson,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,261.0,Bubble Tea Shop
+1157,King William at Hughson,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,372.0,Farmers Market
+1158,King William at Hughson,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,401.0,Arts and Entertainment
+1159,King William at Hughson,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,410.0,Music Venue
+1160,Barton at Wentworth,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,232.0,Restaurant
+1161,Barton at Wentworth,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,401.0,"Cafe, Coffee, and Tea House"
+1162,Barton at Wentworth,Sewing by Kim,"563 Barton St E (Milton Ave), Hamilton ON L8L 2Z2",43.258127,-79.842229,264.0,Fashion Accessories Store
+1163,Barton at Wentworth,Rumors Safety Zone,"388 Barton St E (St. Matthews), Hamilton ON L8L 2Y3",43.259831,-79.848817,298.0,Clothing Store
+1164,Barton at Wentworth,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,349.0,Drugstore
+1165,Barton at Wentworth,Diamantinos Pizza,"341 Barton St E, Hamilton ON L8L 2X6",43.260469,-79.851051,515.0,Pizzeria
+1166,Barton at Wentworth,Birch Avenue,"200 Birch Ave, Hamilton ON L8L 2Z7",43.258322,-79.83882,525.0,Child Care Service
+1167,Barton at Wentworth,Karma Candy,"356 Emerald St N (Shaw St), Hamilton ON L8L 8K6",43.263459,-79.849327,575.0,Candy Store
+1168,Barton at Wentworth,Keith Park,"90 Burton St (Douglas Ave), Hamilton ON",43.263777,-79.847901,577.0,Playground
+1169,Barton at Wentworth,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,701.0,Fast Food Restaurant
+1170,Charlton at Queen,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,228.0,Café
+1171,Charlton at Queen,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,439.0,Bakery
+1172,Charlton at Queen,Queen's Pizza & Wings,"178 Queen St S (at Duke St.), Hamilton ON L8P 3S7",43.253876,-79.881327,196.0,Pizzeria
+1173,Charlton at Queen,Donut Monster,"246 Locke St S, Hamilton ON L8P 4B9",43.253231,-79.886782,429.0,Bagel Shop
+1174,Charlton at Queen,Bitten,"219 Locke St S, Hamilton ON L8P 4B6",43.254371,-79.886102,440.0,Bakery
+1175,Charlton at Queen,Shoppers Drug Mart,"113 Herkimer St (at Caroline St. S), Hamilton ON L8P 2G8",43.250249,-79.879044,310.0,Drugstore
+1176,Charlton at Queen,Building Blocks Speech Pathology,"254 Bay St S, Hamilton ON L8P 3J4",43.250735,-79.877087,243.0,Rehabilitation Center
+1177,Charlton at Queen,HAAA Park,,43.253911,-79.883049,258.0,Park
+1178,Charlton at Queen,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,557.0,Coffee Shop
+1179,Charlton at Queen,The Burnt Tongue,"182 Locke St S (Pine St.), Hamilton ON L8P 4B3",43.255545,-79.885599,521.0,Soup Spot
+1180,Duke at James,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,45.0,American Restaurant
+1181,Duke at James,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,97.0,Pub
+1182,Duke at James,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,117.0,Pub
+1183,Duke at James,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,165.0,Ethiopian Restaurant
+1184,Duke at James,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,180.0,Café
+1185,Duke at James,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,304.0,Museum
+1186,Duke at James,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,510.0,Sushi Restaurant
+1187,Duke at James,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,577.0,Burrito Restaurant
+1188,Duke at James,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,538.0,Bubble Tea Shop
+1189,Duke at James,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,606.0,Café
+1190,Beasley Park,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,389.0,Music Venue
+1191,Beasley Park,Mattina Pizzeria,"104 Cannon St E (Mary), Hamilton ON L8L 2A3",43.259547,-79.862906,163.0,Pizzeria
+1192,Beasley Park,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,341.0,Drugstore
+1193,Beasley Park,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,516.0,Burger Joint
+1194,Beasley Park,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,532.0,Arts and Entertainment
+1195,Beasley Park,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,505.0,German Restaurant
+1196,Beasley Park,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,541.0,Bar
+1197,Beasley Park,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,547.0,Taco Restaurant
+1198,Beasley Park,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,538.0,Indian Restaurant
+1199,Beasley Park,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,344.0,Beer Store
+1200,John near King,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,90.0,Burger Joint
+1201,John near King,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,107.0,Burrito Restaurant
+1202,John near King,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,105.0,Indian Restaurant
+1203,John near King,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,126.0,Taco Restaurant
+1204,John near King,Coco Fresh Tea & Juice,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,218.0,Bubble Tea Shop
+1205,John near King,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,237.0,Sushi Restaurant
+1206,John near King,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,349.0,Bar
+1207,John near King,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,379.0,Music Venue
+1208,John near King,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,413.0,Farmers Market
+1209,John near King,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,446.0,Arts and Entertainment
+1210,Locke at Hunter,Starbucks,"158 Locke St S (at Bold St), Hamilton ON L8P 4A9",43.256089,-79.885353,52.0,Coffee Shop
+1211,Locke at Hunter,Earth to Table Bread Bar,"258 Locke St S (Herkimer St.), Hamilton ON L8P 4B9",43.252761,-79.886784,459.0,Bakery
+1212,Locke at Hunter,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,618.0,Lebanese Restaurant
+1213,Locke at Hunter,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,642.0,Coffee Shop
+1214,Locke at Hunter,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,632.0,Bar
+1215,Locke at Hunter,Cake and Loaf Bakery,"321 Dundurn St S (Dundurn Street South), Hamilton ON L8P 2M5",43.252018,-79.892341,759.0,Bakery
+1216,Locke at Hunter,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,754.0,Café
+1217,Locke at Hunter,Aberdeen Tavern,"432 Aberdeen Ave (Dundurn Street), Hamilton ON L8P 2S2",43.251479,-79.893532,890.0,American Restaurant
+1218,Locke at Hunter,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,947.0,Restaurant
+1219,Locke at Hunter,Starbucks,"151 York Blvd, Hamilton ON L8R 3M2",43.260616,-79.873919,995.0,Coffee Shop
+1220,King at Barnesdale,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,6.0,Café
+1221,King at Barnesdale,Stipley Neighbourhood,"King St E (at Barnesdale), Hamilton ON L8L 2L7",43.251213,-79.83539,22.0,Other Great Outdoors
+1222,King at Barnesdale,Lakeside Insurance & Financial,"957 King St E, Hamilton ON L8M 1C3",43.251249,-79.835986,44.0,Insurance Agency
+1223,King at Barnesdale,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,431.0,"Cafe, Coffee, and Tea House"
+1224,King at Barnesdale,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,509.0,Drugstore
+1225,King at Barnesdale,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,636.0,"Cafe, Coffee, and Tea House"
+1226,King at Barnesdale,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,609.0,"Cafe, Coffee, and Tea House"
+1227,King at Barnesdale,Bernie Morelli Recreation Centre,"876 Cannon St E (Balsam Ave N), Hamilton ON L8L 0C6",43.249418,-79.830227,468.0,Sports and Recreation
+1228,King at Barnesdale,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,658.0,Pizzeria
+1229,King at Barnesdale,Starpolskie,"711 Barton St E, Hamilton ON L8L 3A7",43.255985,-79.834121,557.0,Deli
+1230,King at Sherman,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,220.0,Café
+1231,King at Sherman,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,418.0,Drugstore
+1232,King at Sherman,Tim Hortons,"64 Melrose Ave N (Cannon St E), Hamilton ON L8L 0C3",43.252327,-79.830949,650.0,"Cafe, Coffee, and Tea House"
+1233,King at Sherman,Tim Hortons,"888 Main St E (Melrose Ave), Hamilton ON L8M 1M3",43.245768,-79.834063,698.0,"Cafe, Coffee, and Tea House"
+1234,King at Sherman,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,657.0,"Cafe, Coffee, and Tea House"
+1235,King at Sherman,Tim Hortons,"799 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255221,-79.829674,808.0,"Cafe, Coffee, and Tea House"
+1236,King at Sherman,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,831.0,Restaurant
+1237,King at Sherman,Hi-Line Centre Pizza & Wings,"1150 King St E (Gage), Hamilton ON L8M 1E8",43.247977,-79.82865,860.0,Pizzeria
+1238,King at Sherman,McDonald's,"787 Barton St E (Lottridge), Hamilton ON L8L 3B2",43.255437,-79.830498,763.0,Burger Joint
+1239,King at Sherman,Hobbs Construction,"124 Balsam Ave N, Hamilton ON L8L 6Y3",43.252248,-79.828679,781.0,General Contractor
+1240,King at Sanford,Hamilton East Kiwanis Boys' & Girls' Club,"735 King St E, Hamilton ON L8M 1A1",43.251793,-79.846453,57.0,Organization
+1241,King at Sanford,Tim Hortons,"503 Main St E (Wentworth St S), Hamilton ON L8N 1K8",43.250761,-79.849878,309.0,"Cafe, Coffee, and Tea House"
+1242,King at Sanford,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,424.0,"Cafe, Coffee, and Tea House"
+1243,King at Sanford,Salvation Army Lawson Ministries,"533 Main St E, Hamilton ON L8M 1H9",43.250037,-79.84897,271.0,Charity
+1244,King at Sanford,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,273.0,Community and Government
+1245,King at Sanford,Naturopathic Doctor Justin Gallant,"59 Dunsmure Rd, Hamilton ON L8M 1S1",43.249723,-79.839365,299.0,Doctor's Office
+1246,King at Sanford,Jax Bar & Grill,"532 Main St E (Wentworth), Hamilton ON L8M 1J1",43.250037,-79.84897,317.0,Dive Bar
+1247,King at Sanford,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,461.0,Discount Store
+1248,King at Sanford,Main Street Health Recovery,"460 Main St E, Hamilton ON L8N 1K4",43.250613,-79.8518,435.0,Physical Therapy Clinic
+1249,King at Sanford,Shoppers Drug Mart,"753 Main St E, Hamilton ON L8M 1L2",43.247766,-79.839359,728.0,Drugstore
+1250,Bay at York,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,84.0,Restaurant
+1251,Bay at York,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,157.0,Deli
+1252,Bay at York,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,284.0,Farmers Market
+1253,Bay at York,Coop Wicked Chicken Hamilton,"274 King St W (Hess St), Hamilton ON L8P 1J6",43.259271,-79.877373,327.0,Fried Chicken Joint
+1254,Bay at York,Coop Hamilton,"274 King St W, Hamilton ON L8P 1J6",43.259153,-79.877446,331.0,Fried Chicken Joint
+1255,Bay at York,Hess Village,Hamilton ON,43.258433,-79.87756,342.0,Neighborhood
+1256,Bay at York,Ark + Anchor,"300 King St W, Hamilton ON L8P 1B1",43.25919,-79.878071,387.0,Coffee Shop
+1257,Bay at York,La Luna Restaurant Downtown,"306 King St W (at Queen St), Hamilton ON L8P 1B1",43.259414,-79.878417,418.0,Lebanese Restaurant
+1258,Bay at York,Gown & Gavel,"24 Hess St S, Hamilton ON L8P 3M8",43.258338,-79.877864,357.0,Bar
+1259,Bay at York,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,448.0,Bar
+1260,Jackson Square,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,176.0,Taco Restaurant
+1261,Jackson Square,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,190.0,Indian Restaurant
+1262,Jackson Square,Hambrgr,"49 King William St, Hamilton ON L8R 1A2",43.257095,-79.867095,212.0,Burger Joint
+1263,Jackson Square,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,231.0,Burrito Restaurant
+1264,Jackson Square,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,246.0,Farmers Market
+1265,Jackson Square,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,311.0,Bar
+1266,Jackson Square,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,353.0,Museum
+1267,Jackson Square,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,433.0,Arts and Entertainment
+1268,Jackson Square,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,386.0,Sushi Restaurant
+1269,Jackson Square,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,363.0,Restaurant
+1270,Cannon at Steven,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,309.0,Fast Food Restaurant
+1271,Cannon at Steven,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,483.0,"Cafe, Coffee, and Tea House"
+1272,Cannon at Steven,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,656.0,Restaurant
+1273,Cannon at Steven,Rumors Safety Zone,"388 Barton St E (St. Matthews), Hamilton ON L8L 2Y3",43.259831,-79.848817,391.0,Clothing Store
+1274,Cannon at Steven,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,400.0,Drugstore
+1275,Cannon at Steven,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,596.0,Drugstore
+1276,Cannon at Steven,Diamantinos Pizza,"341 Barton St E, Hamilton ON L8L 2X6",43.260469,-79.851051,453.0,Pizzeria
+1277,Cannon at Steven,Dollarama,"447 Main St E, Hamilton ON L8N 1K1",43.251158,-79.851985,598.0,Discount Store
+1278,Cannon at Steven,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,867.0,Café
+1279,Cannon at Steven,The King's Way Outreach Centre,"649 King St E (King And Wentworth), Hamilton ON L8N 1E5",43.252173,-79.849613,466.0,Community and Government
+1280,Pier 4,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,65.0,Sports and Recreation
+1281,Pier 4,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,383.0,Restaurant
+1282,Pier 4,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,451.0,Park
+1283,Pier 4,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,448.0,Diner
+1284,Pier 4,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,670.0,Skating Rink
+1285,Pier 4,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,556.0,Fish and Chips Shop
+1286,Pier 4,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,846.0,Arts and Entertainment
+1287,Pier 4,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,890.0,Coffee Shop
+1288,Pier 4,AVL Manufacturing,"243 Queen St N (Stuart Street), Hamilton ON L8R 3N6",43.267462,-79.875607,1029.0,Metals Supplier
+1289,Ferguson at King,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,181.0,Café
+1290,Ferguson at King,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,164.0,Music Venue
+1291,Ferguson at King,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,332.0,Sushi Restaurant
+1292,Ferguson at King,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,446.0,Burrito Restaurant
+1293,Ferguson at King,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,533.0,Indian Restaurant
+1294,Ferguson at King,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,554.0,Taco Restaurant
+1295,Ferguson at King,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,667.0,Pub
+1296,Ferguson at King,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,756.0,Bar
+1297,Ferguson at King,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,815.0,American Restaurant
+1298,Ferguson at King,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,841.0,Farmers Market
+1299,Durand Park,Durand Coffee,"142 Charlton Ave W (Caroline St S.), Hamilton ON L8P 2C7",43.251408,-79.878972,316.0,Café
+1300,Durand Park,Red Crow Coffee,"211 James St S (Charlton Ave), Hamilton ON L8P 3B2",43.250202,-79.871665,311.0,Café
+1301,Durand Park,Wass Ethiopian Restaurant,"207 James St N (at Forest Ave.), Hamilton ON L8R 2L2",43.250254,-79.87172,316.0,Ethiopian Restaurant
+1302,Durand Park,One Duke Restaurant & Lounge,"1 Duke St (at James St. South), Hamilton ON L8P 1W9",43.251462,-79.872017,387.0,American Restaurant
+1303,Durand Park,Shoppers Drug Mart,"113 Herkimer St (at Caroline St. S), Hamilton ON L8P 2G8",43.250249,-79.879044,234.0,Drugstore
+1304,Durand Park,The Pheasant Plucker,"20 Augusta St (James St.), Hamilton ON L8N 1P7",43.252037,-79.870397,507.0,Pub
+1305,Durand Park,The Ship,"23 Augusta St (Hughson St.), Hamilton ON L8N 1P6",43.251943,-79.870017,527.0,Pub
+1306,Durand Park,Building Blocks Speech Pathology,"254 Bay St S, Hamilton ON L8P 3J4",43.250735,-79.877087,289.0,Rehabilitation Center
+1307,Durand Park,Whitehern Historic House and Garden,"41 Jackson St W, Hamilton ON L8P 1L3",43.254593,-79.87211,585.0,Museum
+1308,Durand Park,Hamilton Place,"1 Summers Lane, Hamilton ON L8P 4Y2",43.256295,-79.871722,784.0,Concert Hall
+1309,Cannon at East,KFC,"307 Cannon St E (East ave), Hamilton ON L8L 2B7",43.257624,-79.853725,39.0,Fast Food Restaurant
+1310,Cannon at East,Shoppers Drug Mart,"232 Cannon St E, Hamilton ON L8L 0A9",43.257864,-79.85715,309.0,Drugstore
+1311,Cannon at East,Cafe Oranje,"312 King St E (Wellington St), Hamilton ON L8N 1C2",43.253761,-79.860001,669.0,Café
+1312,Cannon at East,Denninger Ltd,"284 King St E, Hamilton ON L8N 1B7",43.253889,-79.860837,707.0,Deli
+1313,Cannon at East,Theatre Aquarius,"190 King William St, Hamilton ON L8R 1A8",43.255151,-79.861885,712.0,Music Venue
+1314,Cannon at East,Hasty Market,"Wellington St N (Cannon St W), Hamilton ON",43.256772,-79.858264,382.0,Convenience Store
+1315,Cannon at East,Diamantinos Pizza,"341 Barton St E, Hamilton ON L8L 2X6",43.260469,-79.851051,402.0,Pizzeria
+1316,Cannon at East,Black Forest Inn,"255 King St E, Hamilton ON L8N 1B9",43.254392,-79.861571,743.0,German Restaurant
+1317,Cannon at East,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,597.0,"Cafe, Coffee, and Tea House"
+1318,Cannon at East,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,461.0,Drugstore
+1319,Strachan at Mary,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,185.0,Bakery
+1320,Strachan at Mary,The Perfect Rose,"348 Catharine St N (Barton), Hamilton ON L8L 8A1",43.265198,-79.860708,99.0,Psychic and Astrologer
+1321,Strachan at Mary,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,430.0,Arts and Entertainment
+1322,Strachan at Mary,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,459.0,Diner
+1323,Strachan at Mary,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,431.0,Coffee Shop
+1324,Strachan at Mary,Food Basics,"135 Barton St E (Mary St), Hamilton ON L8L 8A8",43.264067,-79.859404,230.0,Grocery Store
+1325,Strachan at Mary,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,589.0,BBQ Joint
+1326,Strachan at Mary,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,644.0,Restaurant
+1327,Strachan at Mary,Beer Store,"150 Barton St E (Elgin St), Hamilton ON L8L 2W5",43.26172,-79.859378,470.0,Beer Store
+1328,Strachan at Mary,Tim Hortons,"200 Barton St E (Wellington), Hamilton ON L8L 2W8",43.261765,-79.857345,521.0,"Cafe, Coffee, and Tea House"
+1329,West Harbour GO Station,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,139.0,Arts and Entertainment
+1330,West Harbour GO Station,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,184.0,Coffee Shop
+1331,West Harbour GO Station,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,222.0,Fish and Chips Shop
+1332,West Harbour GO Station,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,380.0,BBQ Joint
+1333,West Harbour GO Station,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,414.0,Diner
+1334,West Harbour GO Station,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,462.0,Park
+1335,West Harbour GO Station,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,469.0,Bakery
+1336,West Harbour GO Station,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,508.0,Café
+1337,West Harbour GO Station,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,593.0,Bar
+1338,West Harbour GO Station,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,649.0,Arts and Entertainment
+1339,James at Guise,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,237.0,Restaurant
+1340,James at Guise,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,376.0,Skating Rink
+1341,James at Guise,Pier 4 Park,"Leander Dr (Bay St. N.), Hamilton ON L8L 1N2",43.272334,-79.86683,428.0,Sports and Recreation
+1342,James at Guise,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,487.0,Diner
+1343,James at Guise,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,814.0,Brewery
+1344,James at Guise,Bayfront Park,"325 Bay St N (at Strachan St W), Hamilton ON L8L 1M5",43.267592,-79.868115,826.0,Park
+1345,James at Guise,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,835.0,Fish and Chips Shop
+1346,James at Guise,A M Roofing Systems Inc,"260 Burlington St E, Hamilton ON L8L 4H4",43.269875,-79.851527,924.0,Roofer
+1347,RBG Rock Garden,Rock Garden,Hamilton ON,43.289364,-79.891937,22.0,Garden
+1348,RBG Rock Garden,Woodland Memorials,"885 Spring Gardens Rd, Burlington ON L7T 1J6",43.287954,-79.88599,507.0,Monument
+1349,RBG Rock Garden,St Joseph's Convent,"574 Northcliffe Ave, Hamilton ON L9H 7L9",43.292543,-79.896421,508.0,Spiritual Center
+1350,RBG Rock Garden,Laking Garden,"Spring Gardens Rd (at Plains Rd. W.), Burlington ON",43.292194,-79.886186,533.0,Garden
+1351,RBG Rock Garden,Can-Alignment,"947 6 Hwy N (Hwy 6 & Millgrove Side Road), Hamilton ON L8N 2Z7",43.282982,-79.894148,732.0,N/A
+1352,RBG Rock Garden,Tim Hortons,"1134 Plains Rd W, Burlington ON L7T 1H3",43.291615,-79.880691,912.0,Restaurant
+1353,RBG Rock Garden,Dominion Lending Centre,"1260 Eglinton Ave W, Mississauga ON L5V 1H8",43.295662,-79.886463,811.0,N/A
+1354,RBG Rock Garden,Cootes Paradise,Dundas ON,43.281344,-79.895076,936.0,Lake
+1355,Pier 8,Pier 8 Skating Pad,"47 Discovery Dr (James St.), Hamilton ON L8L 8B4",43.27698,-79.860983,400.0,Skating Rink
+1356,Pier 8,Brewers Marine Supply,"65 Guise St E, Hamilton ON L8L 8B4",43.27478,-79.859034,152.0,Brewery
+1357,Pier 8,Ontario Sailing Association,"65 Guise St E (Discovery Drive), Hamilton ON L8L 8B4",43.274773,-79.859126,192.0,Non-Profit Organization
+1358,Pier 8,Collective Arts Brewing,"207 Burlington St E (Wellington St. N.), Hamilton ON L8L 4H2",43.270881,-79.852995,619.0,Brewery
+1359,Pier 8,Scoops Ice Cream Hut,"47 Discovery Dr (Guise St E), Hamilton ON L8L 8B4",43.276028,-79.860266,271.0,Ice Cream Parlor
+1360,Pier 8,Fisher's Pier 4 Pub & Grub,"554 James St N, Hamilton ON L8L 1J5",43.271524,-79.862605,606.0,Restaurant
+1361,Pier 8,Hamilton Harbour,Hamilton ON,43.27678,-79.860671,319.0,Harbor or Marina
+1362,Pier 8,Pier 8,Hamilton ON,43.276832,-79.860726,350.0,Park
+1363,Pier 8,Harbour Diner,"488 James St N (btwn Ferrie St and Picton St), Hamilton ON L8L 1J1",43.269474,-79.863286,839.0,Diner
+1364,Pier 8,Dr. Matos a,"605 James St N, Hamilton ON L8L 1J9",43.273253,-79.862162,501.0,Doctor's Office
+1365,Westinghouse at Barton - ERI13,541 | Eatery & Exchange,"541 Barton St E, Hamilton ON L8L 2Z2",43.258283,-79.842245,15.0,Restaurant
+1366,Westinghouse at Barton - ERI13,Sewing by Kim,"563 Barton St E (Milton Ave), Hamilton ON L8L 2Z2",43.258127,-79.842229,63.0,Fashion Accessories Store
+1367,Westinghouse at Barton - ERI13,Tim Hortons,"505 Cannon St E (Sanford Ave N), Hamilton ON L8L 2E6",43.255384,-79.844306,358.0,"Cafe, Coffee, and Tea House"
+1368,Westinghouse at Barton - ERI13,Birch Avenue,"200 Birch Ave, Hamilton ON L8L 2Z7",43.258322,-79.83882,401.0,Child Care Service
+1369,Westinghouse at Barton - ERI13,Oblender Insulation Inc,"58 Earl St, Hamilton ON L8L 6L2",43.258483,-79.836853,448.0,Construction Supplies Store
+1370,Westinghouse at Barton - ERI13,Rumors Safety Zone,"388 Barton St E (St. Matthews), Hamilton ON L8L 2Y3",43.259831,-79.848817,516.0,Clothing Store
+1371,Westinghouse at Barton - ERI13,Dell Pharmacies,"387 Barton St E (Smith Ave), Hamilton ON L8L 2Y2",43.260079,-79.848714,567.0,Drugstore
+1372,Westinghouse at Barton - ERI13,Vintage Coffee Roasters,"977 King St E (Barnesdale), Hamilton ON L8M 1C3",43.251213,-79.83539,959.0,Café
+1373,Westinghouse at Barton - ERI13,RRD Welding & Fabrication Ltd,"46 Munroe St, Hamilton ON L8L 3V7",43.264358,-79.842029,615.0,Welding Service
+1374,Westinghouse at Barton - ERI13,Galley Pump,"365 Wentworth St N, Hamilton ON L8L 5W4",43.262919,-79.84451,638.0,Pub
+1375,James at Colbourne,Charred,"244 James St N (btwn Robert St & Colbourne St), Hamilton ON L8R 2L3",43.262818,-79.866365,107.0,BBQ Joint
+1376,James at Colbourne,Synonym,"328 James St N (Barton Street West), Hamilton ON L8L 1H2",43.264647,-79.865582,108.0,Coffee Shop
+1377,James at Colbourne,This Ain't Hollywood,"345 James St N (at Murray), Hamilton ON L8L 1H3",43.264914,-79.865467,145.0,Arts and Entertainment
+1378,James at Colbourne,Mulberry Street Coffeehouse,"193 James St N (Mulberry St.), Hamilton ON L8R 2L2",43.261799,-79.866818,241.0,Café
+1379,James at Colbourne,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,324.0,Bar
+1380,James at Colbourne,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,381.0,Arts and Entertainment
+1381,James at Colbourne,Bonanza Bakery,"100 Murray St E, Hamilton ON L8L 3G4",43.264459,-79.861131,416.0,Bakery
+1382,James at Colbourne,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,503.0,Bar
+1383,James at Colbourne,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,601.0,Farmers Market
+1384,James at Colbourne,Hutch's Harbour Front,"325 Bay St N, Hamilton ON L8L 1M5",43.267592,-79.868115,461.0,Fish and Chips Shop
+1385,Main at Longwood,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,402.0,Restaurant
+1386,Main at Longwood,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,430.0,Burger Joint
+1387,Main at Longwood,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,442.0,Bakery
+1388,Main at Longwood,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,438.0,Bakery
+1389,Main at Longwood,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,435.0,Vietnamese Restaurant
+1390,Main at Longwood,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,428.0,Indie Movie Theater
+1391,Main at Longwood,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,491.0,Retail
+1392,Main at Longwood,Natural Resources Canada CANMET - MTL,"183 Longwood Rd S, Hamilton ON L8P 0A5",43.25701,-79.901404,307.0,Government Building
+1393,Main at Longwood,Camelot Towers,"1001 Main St W (Main & Paisley), Hamilton ON L8S 1A9",43.257659,-79.905477,345.0,Office Building
+1394,Main at Longwood,BuckitLife,"175 Longwood Rd S, Hamilton ON L8P 0A1",43.256629,-79.900712,358.0,Arts and Entertainment
+1395,Van Wagner's Beach,Hutch's on the Beach,"280 Van Wagners Beach Rd (Bay St N), Hamilton ON L8E 3L8",43.259303,-79.765449,114.0,Fish and Chips Shop
+1396,Van Wagner's Beach,Hamilton Beach,Hamilton ON,43.261317,-79.768938,241.0,Beach
+1397,Van Wagner's Beach,Hamilton Beach Trail,Hamilton ON,43.257789,-79.764593,278.0,Bike Trail
+1398,Van Wagner's Beach,Hutch's Fish and Chips,"280 Van Wagners Beach Rd (Woodward), Hamilton ON L8E 3L8",43.259007,-79.765492,118.0,Fish and Chips Shop
+1399,Van Wagner's Beach,Van Wagners Beach,,43.259117,-79.76551,135.0,Beach
+1400,Van Wagner's Beach,Baranga's on the Beach,"380 Van Wagners Beach Rd, Hamilton ON L8E 3L8",43.255606,-79.761679,617.0,Caribbean Restaurant
+1401,Van Wagner's Beach,Subway,"Bay St N, Hamilton ON",43.260258,-79.772563,477.0,Deli
+1402,Van Wagner's Beach,Hamilton Museum of Steam & Technology,"900 Woodward Ave, Hamilton ON L8H 7N2",43.25647,-79.77168,606.0,Museum
+1403,Van Wagner's Beach,Lake Ontario,Hamilton ON L8E 3L8,43.255497,-79.76029,703.0,Lake
+1404,Van Wagner's Beach,A & a Discount Auto Parts,"765 Woodward Ave, Hamilton ON L8H 6P5",43.254033,-79.774258,924.0,Car Parts and Accessories
+1405,King William at James,The Mule,"41 King William St (Hughson), Hamilton ON L8R 1A2",43.257143,-79.86724,94.0,Taco Restaurant
+1406,King William at James,Sagarmatha Curry Palace Resturant,"43 King William St, Hamilton ON L8R 1A2",43.257213,-79.867056,115.0,Indian Restaurant
+1407,King William at James,Hamilton Farmers' Market,"55 York Blvd (at James), Hamilton ON L8R 3K1",43.259041,-79.870193,201.0,Farmers Market
+1408,King William at James,Burrito Boyz,"66 King St E, Hamilton ON L8N 1A6",43.255691,-79.867215,228.0,Burrito Restaurant
+1409,King William at James,Merit Brewing,"107 James St N (at York Blvd), Hamilton ON L8R 2K6",43.25949,-79.867997,206.0,Bar
+1410,King William at James,James Street North Art Crawl,"James St N, Hamilton ON",43.260637,-79.867332,329.0,Arts and Entertainment
+1411,King William at James,Saint James Espresso Bar & Eatery,"170 James St N (Cannon), Hamilton ON L8R 2L1",43.260989,-79.867179,385.0,Bar
+1412,King William at James,Sapporo Japanese Restaurant,"96 Main St E, Hamilton ON L8N 1G3",43.254333,-79.865966,401.0,Sushi Restaurant
+1413,King William at James,The George Hamilton,"152 King St W (Bay And King), Hamilton ON L8P 1A5",43.25803,-79.873899,424.0,Restaurant
+1414,King William at James,Subway,"114 York Blvd (Bay St), Hamilton ON L8R 1R6",43.260152,-79.872468,431.0,Deli
+1415,Westdale Village - Paisley,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,49.0,Vietnamese Restaurant
+1416,Westdale Village - Paisley,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,89.0,Bakery
+1417,Westdale Village - Paisley,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,72.0,Restaurant
+1418,Westdale Village - Paisley,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,109.0,Burger Joint
+1419,Westdale Village - Paisley,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,75.0,Indie Movie Theater
+1420,Westdale Village - Paisley,Adas Israel Synagogue,"125 Cline Ave S, Hamilton ON L8S 1X2",43.256725,-79.910326,276.0,Synagogue
+1421,Westdale Village - Paisley,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,574.0,Bakery
+1422,Westdale Village - Paisley,St Paul's Anglican Church,"1140 King St W, Hamilton ON L8S 1M1",43.260587,-79.910287,372.0,Church
+1423,Westdale Village - Paisley,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,711.0,Retail
+1424,Westdale Village - Paisley,Columbia International College,"1003 Main St W, Hamilton ON L8S 4P3",43.257633,-79.906539,440.0,College and University
+1425,Westdale Aviary,Delirious Burger Co,"1008 King St W, Hamilton ON L8S 1L4",43.262405,-79.905588,298.0,Burger Joint
+1426,Westdale Aviary,The Bean Bar,"1012 King St W (Marion Ave), Hamilton ON L8S 1L4",43.262405,-79.905588,331.0,Restaurant
+1427,Westdale Aviary,Westdale Theatre,"1014 King St W (marion), Hamilton ON L8S 1L4",43.262339,-79.905716,309.0,Indie Movie Theater
+1428,Westdale Aviary,Saigon Asian Restaurant,"1024 King St W, Hamilton ON L8S 1L5",43.261937,-79.906575,333.0,Vietnamese Restaurant
+1429,Westdale Aviary,Cupcakes,"1050 King St W, Hamilton ON L8S 1L5",43.261484,-79.907373,382.0,Bakery
+1430,Westdale Aviary,Adas Israel Synagogue,"125 Cline Ave S, Hamilton ON L8S 1X2",43.256725,-79.910326,302.0,Synagogue
+1431,Westdale Aviary,Valentino's Restaurant,"824 King St W (at Paradise Rd N), Hamilton ON L8S 1K3",43.26287,-79.89885,725.0,Bakery
+1432,Westdale Aviary,St Paul's Anglican Church,"1140 King St W, Hamilton ON L8S 1M1",43.260587,-79.910287,522.0,Church
+1433,Westdale Aviary,1UP Games,"777 King St W, Hamilton ON L8S 1K2",43.262205,-79.897119,891.0,Retail
+1434,Westdale Aviary,Ginger Valley Trail,Hamilton ON,43.269366,-79.903108,598.0,Hiking Trail
