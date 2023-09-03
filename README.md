@@ -17,7 +17,7 @@ The goal of this project is to determine any possible relationships between bike
 
 ### 2. Extracting data from Foursquare and Yelp (yelp_foursquare_EDA.ipynb):
 #### &emsp; a. Import CSV file from step 1 and save as a DataFrame
-#### &emsp; b. Query the Foursquare database using the Foursquare API and the bike station data that was retrieved from step 1
+#### &emsp; b. Query the Foursquare database using the Foursquare API and bike station data retrieved from step 1
 #### &emsp; c. Convert data into DataFrame format
 #### &emsp; d. Format the Foursquare data and filter out irrelevant columns
 #### &emsp; e. Save DataFrame as CSV file
